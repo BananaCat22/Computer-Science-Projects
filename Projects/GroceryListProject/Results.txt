@@ -1,0 +1,2001 @@
+Customer 385 Arrived at 0.0
+Customer 373 Arrived at 0.15
+Customer 343 Arrived at 0.64
+Customer 196 Arrived at 0.91
+Customer 97 Arrived at 1.22
+Customer 342 Arrived at 1.7
+Customer 484 Arrived at 1.77
+Customer 304 Arrived at 2.24
+Customer 323 Arrived at 2.41
+Customer 175 Arrived at 2.67
+Customer 120 Arrived at 2.87
+Customer 1 Arrived at 3.05
+Customer 247 Arrived at 3.26
+Customer 85 Arrived at 3.38
+Customer 422 Arrived at 4.44
+Customer 392 Arrived at 4.51
+Customer 120 Finished shopping at 4.85
+Customer 120 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 458 Arrived at 5.68
+Customer 118 Arrived at 5.99
+Customer 22 Arrived at 6.01
+Customer 120 finished Checkout at 6.05 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 4.85
+Customer 234 Arrived at 7.07
+Customer 483 Arrived at 7.1
+Customer 375 Arrived at 7.3
+Customer 323 Finished shopping at 7.61
+Customer 323 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 381 Arrived at 7.62
+Customer 75 Arrived at 7.68
+Customer 349 Arrived at 8.1
+Customer 464 Arrived at 8.12
+Customer 195 Arrived at 8.45
+Customer 343 Finished shopping at 8.78
+Customer 343 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 286 Arrived at 8.79
+Customer 448 Arrived at 8.9
+Customer 21 Arrived at 8.91
+Customer 428 Arrived at 9.36
+Customer 323 finished Checkout at 9.41 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 7.61
+Customer 188 Arrived at 9.68
+Customer 244 Arrived at 9.76
+Customer 161 Arrived at 9.92
+Customer 93 Arrived at 9.93
+Customer 438 Arrived at 10.13
+Customer 327 Arrived at 10.18
+Customer 296 Arrived at 10.35
+Customer 343 finished Checkout at 10.88 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 8.78
+Customer 476 Arrived at 10.89
+Customer 254 Arrived at 11.45
+Customer 139 Arrived at 11.49
+Customer 293 Arrived at 11.68
+Customer 381 Finished shopping at 11.85
+Customer 381 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 85 Finished shopping at 11.98
+Customer 85 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 221 Arrived at 13.11
+Customer 381 finished Checkout at 13.15 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 11.85
+Customer 461 Arrived at 13.2
+Customer 446 Arrived at 13.35
+Customer 85 finished Checkout at 13.98 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 11.98
+Customer 226 Arrived at 14.13
+Customer 349 Finished shopping at 14.15
+Customer 349 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 422 Finished shopping at 14.34
+Customer 422 has more than 12 items choose Lane 0 Number of customers already in line: 0
+Customer 397 Arrived at 14.44
+Customer 318 Arrived at 14.53
+Customer 281 Arrived at 14.65
+Customer 254 Finished shopping at 15.56
+Customer 254 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 226 Finished shopping at 15.59
+Customer 226 has 12 or less items choose Lane 1 Number of customers already in line: 0
+Customer 349 finished Checkout at 15.65 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 14.15
+Customer 464 Finished shopping at 15.68
+Customer 464 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 194 Arrived at 15.8
+Customer 206 Arrived at 15.96
+Customer 434 Arrived at 16.36
+Customer 458 Finished shopping at 16.56
+Customer 458 has 12 or less items choose Lane 2 Number of customers already in line: 0
+Customer 392 Finished shopping at 16.58
+Customer 392 has more than 12 items choose Lane 3 Number of customers already in line: 0
+Customer 247 Finished shopping at 16.67
+Customer 247 has 12 or less items choose Lane 4 Number of customers already in line: 0
+Customer 45 Arrived at 16.68
+Customer 254 finished Checkout at 16.86 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 15.56
+Customer 19 Arrived at 16.98
+Customer 244 Finished shopping at 17.02
+Customer 244 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 422 finished Checkout at 17.09 in Lane 0 this customer experienced 0.0 wait time  this customer reached the front line at 14.34
+Customer 290 Arrived at 17.23
+Customer 90 Arrived at 17.25
+Customer 464 finished Checkout at 17.38 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 15.68
+Customer 296 Finished shopping at 17.67
+Customer 296 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 226 finished Checkout at 17.69 in Lane 1 this customer experienced 0.0 wait time  this customer reached the front line at 15.59
+Customer 286 Finished shopping at 17.7
+Customer 286 has 12 or less items choose Lane 0 Number of customers already in line: 0
+Customer 307 Arrived at 17.79
+Customer 425 Arrived at 18.05
+Customer 438 Finished shopping at 18.23
+Customer 438 has 12 or less items choose Lane 1 Number of customers already in line: 0
+Customer 451 Arrived at 18.38
+Customer 171 Arrived at 18.59
+Customer 139 Finished shopping at 18.7
+Customer 139 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 240 Arrived at 18.73
+Customer 133 Arrived at 18.89
+Customer 458 finished Checkout at 18.96 in Lane 2 this customer experienced 0.0 wait time  this customer reached the front line at 16.56
+Customer 199 Arrived at 19.1
+Customer 247 finished Checkout at 19.12 in Lane 4 this customer experienced 0.0 wait time  this customer reached the front line at 16.67
+Customer 244 finished Checkout at 19.12 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 17.02
+Customer 452 Arrived at 19.24
+Customer 392 finished Checkout at 19.43 in Lane 3 this customer experienced 0.0 wait time  this customer reached the front line at 16.58
+Customer 72 Arrived at 19.44
+Customer 485 Arrived at 19.46
+Customer 296 finished Checkout at 19.87 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 17.67
+Customer 107 Arrived at 19.94
+Customer 286 finished Checkout at 20.15 in Lane 0 this customer experienced 0.0 wait time  this customer reached the front line at 17.7
+Customer 273 Arrived at 20.19
+Customer 318 Finished shopping at 20.33
+Customer 318 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 71 Arrived at 20.37
+Customer 310 Arrived at 20.42
+Customer 438 finished Checkout at 20.53 in Lane 1 this customer experienced 0.0 wait time  this customer reached the front line at 18.23
+Customer 441 Arrived at 20.56
+Customer 434 Finished shopping at 20.7
+Customer 434 has 12 or less items choose Lane 0 Number of customers already in line: 0
+Customer 412 Arrived at 21.0
+Customer 373 Finished shopping at 21.01
+Customer 373 has more than 12 items choose Lane 1 Number of customers already in line: 0
+Customer 446 Finished shopping at 21.09
+Customer 446 has 12 or less items choose Lane 2 Number of customers already in line: 0
+Customer 417 Arrived at 21.17
+Customer 155 Arrived at 21.21
+Customer 484 Finished shopping at 21.21
+Customer 484 has more than 12 items choose Lane 3 Number of customers already in line: 0
+Customer 19 Finished shopping at 21.38
+Customer 19 has 12 or less items choose Lane 4 Number of customers already in line: 0
+Customer 290 Finished shopping at 21.52
+Customer 290 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 139 finished Checkout at 21.57 in Lane 5 this customer experienced 1.17 wait time  this customer reached the front line at 19.87
+Customer 265 Arrived at 21.63
+Customer 468 Arrived at 21.72
+Customer 452 Finished shopping at 22.0
+Customer 452 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 54 Arrived at 22.02
+Customer 72 Finished shopping at 22.19
+Customer 72 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 318 finished Checkout at 22.33 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 20.33
+Customer 28 Arrived at 22.38
+Customer 131 Arrived at 22.41
+Customer 306 Arrived at 22.46
+Customer 290 finished Checkout at 22.87 in Lane 5 this customer experienced 0.05 wait time  this customer reached the front line at 21.57
+Customer 400 Arrived at 22.97
+Customer 434 finished Checkout at 23.05 in Lane 0 this customer experienced 0.0 wait time  this customer reached the front line at 20.7
+Customer 425 Finished shopping at 23.16
+Customer 425 has 12 or less items choose Lane 0 Number of customers already in line: 0
+Customer 335 Arrived at 23.19
+Customer 446 finished Checkout at 23.54 in Lane 2 this customer experienced 0.0 wait time  this customer reached the front line at 21.09
+Customer 206 Finished shopping at 23.56
+Customer 206 has 12 or less items choose Lane 2 Number of customers already in line: 0
+Customer 19 finished Checkout at 23.63 in Lane 4 this customer experienced 0.0 wait time  this customer reached the front line at 21.38
+Customer 373 finished Checkout at 23.71 in Lane 1 this customer experienced 0.0 wait time  this customer reached the front line at 21.01
+Customer 72 finished Checkout at 23.83 in Lane 6 this customer experienced 0.14 wait time  this customer reached the front line at 22.33
+Customer 452 finished Checkout at 24.27 in Lane 5 this customer experienced 0.87 wait time  this customer reached the front line at 22.87
+Customer 443 Arrived at 24.49
+Customer 212 Arrived at 24.75
+Customer 436 Arrived at 24.75
+Customer 484 finished Checkout at 25.01 in Lane 3 this customer experienced 0.0 wait time  this customer reached the front line at 21.21
+Customer 97 Finished shopping at 25.02
+Customer 97 has more than 12 items choose Lane 1 Number of customers already in line: 0
+Customer 485 Finished shopping at 25.18
+Customer 485 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 332 Arrived at 25.19
+Customer 346 Arrived at 25.22
+Customer 219 Arrived at 25.43
+Customer 425 finished Checkout at 25.51 in Lane 0 this customer experienced 0.0 wait time  this customer reached the front line at 23.16
+Customer 447 Arrived at 25.69
+Customer 265 Finished shopping at 25.71
+Customer 265 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 206 finished Checkout at 26.06 in Lane 2 this customer experienced 0.0 wait time  this customer reached the front line at 23.56
+Customer 311 Arrived at 26.09
+Customer 96 Arrived at 26.11
+Customer 441 Finished shopping at 26.21
+Customer 441 has 12 or less items choose Lane 0 Number of customers already in line: 0
+Customer 433 Arrived at 26.4
+Customer 161 Finished shopping at 26.42
+Customer 161 has more than 12 items choose Lane 2 Number of customers already in line: 0
+Customer 298 Arrived at 26.43
+Customer 430 Arrived at 26.44
+Customer 1 Finished shopping at 26.55
+Customer 1 has more than 12 items choose Lane 3 Number of customers already in line: 0
+Customer 485 finished Checkout at 26.58 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 25.18
+Customer 362 Arrived at 26.69
+Customer 428 Finished shopping at 26.85
+Customer 428 has more than 12 items choose Lane 4 Number of customers already in line: 0
+Customer 121 Arrived at 27.24
+Customer 265 finished Checkout at 27.31 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 25.71
+Customer 429 Arrived at 27.39
+Customer 62 Arrived at 27.56
+Customer 332 Finished shopping at 27.91
+Customer 332 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 97 finished Checkout at 28.02 in Lane 1 this customer experienced 0.0 wait time  this customer reached the front line at 25.02
+Customer 441 finished Checkout at 28.46 in Lane 0 this customer experienced 0.0 wait time  this customer reached the front line at 26.21
+Customer 155 Finished shopping at 28.89
+Customer 155 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 307 Finished shopping at 29.07
+Customer 307 has 12 or less items choose Lane 0 Number of customers already in line: 0
+Customer 45 Finished shopping at 29.08
+Customer 45 has 12 or less items choose Lane 1 Number of customers already in line: 0
+Customer 332 finished Checkout at 29.11 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 27.91
+Customer 492 Arrived at 29.72
+Customer 126 Arrived at 29.88
+Customer 232 Arrived at 29.91
+Customer 369 Arrived at 29.98
+Customer 161 finished Checkout at 30.07 in Lane 2 this customer experienced 0.0 wait time  this customer reached the front line at 26.42
+Customer 155 finished Checkout at 30.49 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 28.89
+Customer 428 finished Checkout at 30.5 in Lane 4 this customer experienced 0.0 wait time  this customer reached the front line at 26.85
+Customer 327 Finished shopping at 30.51
+Customer 327 has more than 12 items choose Lane 2 Number of customers already in line: 0
+Customer 126 Finished shopping at 30.56
+Customer 210 Arrived at 30.56
+Customer 126 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 118 Finished shopping at 30.63
+Customer 118 has more than 12 items choose Lane 4 Number of customers already in line: 0
+Customer 142 Arrived at 30.75
+Customer 1 finished Checkout at 30.9 in Lane 3 this customer experienced 0.0 wait time  this customer reached the front line at 26.55
+Customer 293 Finished shopping at 31.0
+Customer 293 has more than 12 items choose Lane 3 Number of customers already in line: 0
+Customer 348 Arrived at 31.01
+Customer 3 Arrived at 31.06
+Customer 45 finished Checkout at 31.58 in Lane 1 this customer experienced 0.0 wait time  this customer reached the front line at 29.08
+Customer 126 finished Checkout at 31.66 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 30.56
+Customer 307 finished Checkout at 31.67 in Lane 0 this customer experienced 0.0 wait time  this customer reached the front line at 29.07
+Customer 6 Arrived at 31.92
+Customer 273 Finished shopping at 31.98
+Customer 273 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 311 Finished shopping at 32.24
+Customer 311 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 3 Finished shopping at 32.26
+Customer 3 has 12 or less items choose Lane 0 Number of customers already in line: 0
+Customer 499 Arrived at 32.96
+Customer 418 Arrived at 33.0
+Customer 10 Arrived at 33.17
+Customer 483 Finished shopping at 33.29
+Customer 483 has more than 12 items choose Lane 1 Number of customers already in line: 0
+Customer 488 Arrived at 33.3
+Customer 147 Arrived at 33.36
+Customer 327 finished Checkout at 33.46 in Lane 2 this customer experienced 0.0 wait time  this customer reached the front line at 30.51
+Customer 87 Arrived at 33.52
+Customer 293 finished Checkout at 33.7 in Lane 3 this customer experienced 0.0 wait time  this customer reached the front line at 31.0
+Customer 22 Finished shopping at 33.73
+Customer 16 Arrived at 33.73
+Customer 22 has more than 12 items choose Lane 2 Number of customers already in line: 0
+Customer 311 finished Checkout at 33.74 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 32.24
+Customer 375 Finished shopping at 33.82
+Customer 375 has more than 12 items choose Lane 3 Number of customers already in line: 0
+Customer 273 finished Checkout at 33.88 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 31.98
+Customer 499 Finished shopping at 33.98
+Customer 499 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 4 Arrived at 34.06
+Customer 3 finished Checkout at 34.36 in Lane 0 this customer experienced 0.0 wait time  this customer reached the front line at 32.26
+Customer 62 Finished shopping at 34.42
+Customer 62 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 70 Arrived at 34.61
+Customer 475 Arrived at 34.69
+Customer 90 Finished shopping at 34.71
+Customer 90 has more than 12 items choose Lane 0 Number of customers already in line: 0
+Customer 186 Arrived at 34.77
+Customer 118 finished Checkout at 34.83 in Lane 4 this customer experienced 0.0 wait time  this customer reached the front line at 30.63
+Customer 232 Finished shopping at 34.89
+Customer 232 has 12 or less items choose Lane 4 Number of customers already in line: 0
+Customer 448 Finished shopping at 34.9
+Customer 448 has more than 12 items choose Lane 0 Number of customers already in line: 1
+Customer 436 Finished shopping at 34.91
+Customer 436 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 492 Finished shopping at 35.0
+Customer 492 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 194 Finished shopping at 35.12
+Customer 194 has more than 12 items choose Lane 1 Number of customers already in line: 1
+Customer 499 finished Checkout at 35.18 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 33.98
+Customer 115 Arrived at 35.63
+Customer 141 Arrived at 35.82
+Customer 62 finished Checkout at 36.12 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 34.42
+Customer 6 Finished shopping at 36.47
+Customer 6 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 483 finished Checkout at 36.64 in Lane 1 this customer experienced 0.0 wait time  this customer reached the front line at 33.29
+Customer 12 Arrived at 36.89
+Customer 436 finished Checkout at 36.98 in Lane 5 this customer experienced 0.27 wait time  this customer reached the front line at 35.18
+Customer 412 Finished shopping at 37.08
+Customer 412 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 375 finished Checkout at 37.12 in Lane 3 this customer experienced 0.0 wait time  this customer reached the front line at 33.82
+Customer 22 finished Checkout at 37.13 in Lane 2 this customer experienced 0.0 wait time  this customer reached the front line at 33.73
+Customer 232 finished Checkout at 37.19 in Lane 4 this customer experienced 0.0 wait time  this customer reached the front line at 34.89
+Customer 15 Arrived at 37.23
+Customer 310 Finished shopping at 37.5
+Customer 136 Arrived at 37.5
+Customer 310 has more than 12 items choose Lane 2 Number of customers already in line: 0
+Customer 492 finished Checkout at 37.52 in Lane 6 this customer experienced 1.12 wait time  this customer reached the front line at 36.12
+Customer 176 Arrived at 37.56
+Customer 90 finished Checkout at 37.61 in Lane 0 this customer experienced 0.0 wait time  this customer reached the front line at 34.71
+Customer 146 Arrived at 37.9
+Customer 4 Finished shopping at 38.38
+Customer 4 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 300 Arrived at 38.43
+Customer 253 Arrived at 38.52
+Customer 6 finished Checkout at 38.68 in Lane 5 this customer experienced 0.51 wait time  this customer reached the front line at 36.98
+Customer 447 Finished shopping at 38.89
+Customer 447 has 12 or less items choose Lane 3 Number of customers already in line: 0
+Customer 209 Arrived at 39.0
+Customer 12 Finished shopping at 39.23
+Customer 12 has 12 or less items choose Lane 4 Number of customers already in line: 0
+Customer 420 Arrived at 39.26
+Customer 234 Finished shopping at 39.27
+Customer 234 has more than 12 items choose Lane 0 Number of customers already in line: 1
+Customer 4 finished Checkout at 39.78 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 38.38
+Customer 500 Arrived at 39.98
+Customer 194 finished Checkout at 40.04 in Lane 1 this customer experienced 1.52 wait time  this customer reached the front line at 36.64
+Customer 292 Arrived at 40.27
+Customer 210 Finished shopping at 40.82
+Customer 210 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 412 finished Checkout at 40.88 in Lane 5 this customer experienced 1.6 wait time  this customer reached the front line at 38.68
+Customer 310 finished Checkout at 40.9 in Lane 2 this customer experienced 0.0 wait time  this customer reached the front line at 37.5
+Customer 342 Finished shopping at 41.3
+Customer 342 has more than 12 items choose Lane 1 Number of customers already in line: 0
+Customer 12 finished Checkout at 41.38 in Lane 4 this customer experienced 0.0 wait time  this customer reached the front line at 39.23
+Customer 447 finished Checkout at 41.49 in Lane 3 this customer experienced 0.0 wait time  this customer reached the front line at 38.89
+Customer 448 finished Checkout at 41.61 in Lane 0 this customer experienced 2.71 wait time  this customer reached the front line at 37.61
+Customer 256 Arrived at 42.18
+Customer 360 Arrived at 42.21
+Customer 141 Finished shopping at 42.22
+Customer 141 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 96 Finished shopping at 42.23
+Customer 96 has more than 12 items choose Lane 2 Number of customers already in line: 0
+Customer 454 Arrived at 42.27
+Customer 427 Arrived at 42.33
+Customer 397 Finished shopping at 42.57
+Customer 397 has more than 12 items choose Lane 3 Number of customers already in line: 0
+Customer 413 Arrived at 42.63
+Customer 210 finished Checkout at 42.72 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 40.82
+Customer 312 Arrived at 42.87
+Customer 486 Arrived at 43.34
+Customer 398 Arrived at 43.5
+Customer 141 finished Checkout at 44.02 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 42.22
+Customer 37 Arrived at 44.11
+Customer 475 Finished shopping at 44.32
+Customer 475 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 418 Finished shopping at 44.77
+Customer 418 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 128 Arrived at 44.91
+Customer 270 Arrived at 45.0
+Customer 234 finished Checkout at 45.01 in Lane 0 this customer experienced 2.34 wait time  this customer reached the front line at 41.61
+Customer 243 Arrived at 45.29
+Customer 342 finished Checkout at 45.5 in Lane 1 this customer experienced 0.0 wait time  this customer reached the front line at 41.3
+Customer 96 finished Checkout at 45.53 in Lane 2 this customer experienced 0.0 wait time  this customer reached the front line at 42.23
+Customer 289 Arrived at 45.56
+Customer 476 Finished shopping at 45.66
+Customer 476 has more than 12 items choose Lane 0 Number of customers already in line: 0
+Customer 37 Finished shopping at 45.67
+Customer 37 has 12 or less items choose Lane 1 Number of customers already in line: 0
+Customer 219 Finished shopping at 45.8
+Customer 219 has more than 12 items choose Lane 2 Number of customers already in line: 0
+Customer 397 finished Checkout at 46.02 in Lane 3 this customer experienced 0.0 wait time  this customer reached the front line at 42.57
+Customer 165 Arrived at 46.04
+Customer 221 Finished shopping at 46.11
+Customer 221 has more than 12 items choose Lane 3 Number of customers already in line: 0
+Customer 475 finished Checkout at 46.22 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 44.32
+Customer 229 Arrived at 46.53
+Customer 50 Arrived at 46.55
+Customer 171 Finished shopping at 46.59
+Customer 171 has more than 12 items choose Lane 4 Number of customers already in line: 0
+Customer 355 Arrived at 46.69
+Customer 79 Arrived at 46.73
+Customer 395 Arrived at 46.81
+Customer 418 finished Checkout at 46.87 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 44.77
+Customer 331 Arrived at 47.02
+Customer 138 Arrived at 47.21
+Customer 146 Finished shopping at 47.5
+Customer 146 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 468 Finished shopping at 47.68
+Customer 468 has more than 12 items choose Lane 0 Number of customers already in line: 1
+Customer 37 finished Checkout at 47.82 in Lane 1 this customer experienced 0.0 wait time  this customer reached the front line at 45.67
+Customer 121 Finished shopping at 48.54
+Customer 121 has more than 12 items choose Lane 1 Number of customers already in line: 0
+Customer 413 Finished shopping at 48.65
+Customer 413 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 188 Finished shopping at 48.74
+Customer 188 has more than 12 items choose Lane 1 Number of customers already in line: 1
+Customer 124 Arrived at 48.77
+Customer 219 finished Checkout at 48.85 in Lane 2 this customer experienced 0.0 wait time  this customer reached the front line at 45.8
+Customer 400 Finished shopping at 48.87
+Customer 400 has more than 12 items choose Lane 2 Number of customers already in line: 0
+Customer 147 Finished shopping at 48.94
+Customer 147 has more than 12 items choose Lane 2 Number of customers already in line: 1
+Customer 214 Arrived at 49.23
+Customer 393 Arrived at 49.38
+Customer 364 Arrived at 49.46
+Customer 146 finished Checkout at 49.5 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 47.5
+Customer 256 Finished shopping at 49.68
+Customer 256 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 321 Arrived at 49.79
+Customer 89 Arrived at 50.34
+Customer 413 finished Checkout at 50.35 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 48.65
+Customer 476 finished Checkout at 50.51 in Lane 0 this customer experienced 0.0 wait time  this customer reached the front line at 45.66
+Customer 171 finished Checkout at 50.59 in Lane 4 this customer experienced 0.0 wait time  this customer reached the front line at 46.59
+Customer 184 Arrived at 50.67
+Customer 304 Finished shopping at 50.71
+Customer 304 has more than 12 items choose Lane 4 Number of customers already in line: 0
+Customer 221 finished Checkout at 50.86 in Lane 3 this customer experienced 0.0 wait time  this customer reached the front line at 46.11
+Customer 430 Finished shopping at 51.14
+Customer 430 has more than 12 items choose Lane 3 Number of customers already in line: 0
+Customer 209 Finished shopping at 51.22
+Customer 209 has more than 12 items choose Lane 0 Number of customers already in line: 1
+Customer 277 Arrived at 51.61
+Customer 176 Finished shopping at 51.64
+Customer 176 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 256 finished Checkout at 51.68 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 49.68
+Customer 420 Finished shopping at 51.86
+Customer 420 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 121 finished Checkout at 52.04 in Lane 1 this customer experienced 0.0 wait time  this customer reached the front line at 48.54
+Customer 160 Arrived at 52.06
+Customer 229 Finished shopping at 52.23
+Customer 229 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 50 Finished shopping at 52.27
+Customer 50 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 13 Arrived at 52.38
+Customer 65 Arrived at 52.46
+Customer 400 finished Checkout at 52.62 in Lane 2 this customer experienced 0.0 wait time  this customer reached the front line at 48.87
+Customer 429 Finished shopping at 52.77
+Customer 429 has more than 12 items choose Lane 1 Number of customers already in line: 1
+Customer 246 Arrived at 53.23
+Customer 128 Finished shopping at 53.41
+Customer 128 has 12 or less items choose Lane 2 Number of customers already in line: 1
+Customer 133 Finished shopping at 53.65
+Customer 133 has more than 12 items choose Lane 3 Number of customers already in line: 1
+Customer 176 finished Checkout at 53.74 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 51.64
+Customer 490 Arrived at 53.76
+Customer 420 finished Checkout at 53.76 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 51.86
+Customer 385 Finished shopping at 53.94
+Customer 385 has more than 12 items choose Lane 4 Number of customers already in line: 1
+Customer 160 Finished shopping at 54.1
+Customer 160 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 15 Finished shopping at 54.15
+Customer 15 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 328 Arrived at 54.18
+Customer 82 Arrived at 54.38
+Customer 304 finished Checkout at 54.56 in Lane 4 this customer experienced 0.0 wait time  this customer reached the front line at 50.71
+Customer 301 Arrived at 54.59
+Customer 468 finished Checkout at 54.71 in Lane 0 this customer experienced 2.83 wait time  this customer reached the front line at 50.51
+Customer 430 finished Checkout at 55.04 in Lane 3 this customer experienced 0.0 wait time  this customer reached the front line at 51.14
+Customer 335 Finished shopping at 55.11
+Customer 335 has more than 12 items choose Lane 0 Number of customers already in line: 1
+Customer 50 finished Checkout at 55.14 in Lane 6 this customer experienced 1.47 wait time  this customer reached the front line at 53.74
+Customer 229 finished Checkout at 55.26 in Lane 5 this customer experienced 1.53 wait time  this customer reached the front line at 53.76
+Customer 147 finished Checkout at 55.57 in Lane 2 this customer experienced 3.68 wait time  this customer reached the front line at 52.62
+Customer 188 finished Checkout at 55.59 in Lane 1 this customer experienced 3.3 wait time  this customer reached the front line at 52.04
+Customer 11 Arrived at 55.61
+Customer 65 Finished shopping at 55.86
+Customer 65 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 363 Arrived at 55.98
+Customer 315 Arrived at 56.27
+Customer 378 Arrived at 56.32
+Customer 246 Finished shopping at 56.38
+Customer 246 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 160 finished Checkout at 56.46 in Lane 5 this customer experienced 1.16 wait time  this customer reached the front line at 55.26
+Customer 28 Finished shopping at 56.63
+Customer 28 has more than 12 items choose Lane 1 Number of customers already in line: 1
+Customer 407 Arrived at 56.63
+Customer 240 Finished shopping at 56.8
+Customer 240 has more than 12 items choose Lane 2 Number of customers already in line: 1
+Customer 73 Arrived at 56.88
+Customer 378 Finished shopping at 57.11
+Customer 378 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 15 finished Checkout at 57.34 in Lane 6 this customer experienced 0.99 wait time  this customer reached the front line at 55.14
+Customer 209 finished Checkout at 57.36 in Lane 0 this customer experienced 3.49 wait time  this customer reached the front line at 54.71
+Customer 393 Finished shopping at 57.54
+Customer 393 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 237 Arrived at 57.57
+Customer 93 Finished shopping at 57.77
+Customer 93 has more than 12 items choose Lane 0 Number of customers already in line: 1
+Customer 54 Finished shopping at 57.86
+Customer 54 has more than 12 items choose Lane 3 Number of customers already in line: 1
+Customer 292 Finished shopping at 57.95
+Customer 292 has more than 12 items choose Lane 4 Number of customers already in line: 1
+Customer 222 Arrived at 57.96
+Customer 65 finished Checkout at 57.96 in Lane 5 this customer experienced 0.6 wait time  this customer reached the front line at 56.46
+Customer 128 finished Checkout at 58.07 in Lane 2 this customer experienced 2.16 wait time  this customer reached the front line at 55.57
+Customer 348 Finished shopping at 58.26
+Customer 348 has more than 12 items choose Lane 2 Number of customers already in line: 1
+Customer 407 Finished shopping at 58.55
+Customer 407 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 11 Finished shopping at 58.57
+Customer 11 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 246 finished Checkout at 58.64 in Lane 6 this customer experienced 0.96 wait time  this customer reached the front line at 57.34
+Customer 242 Arrived at 58.92
+Customer 429 finished Checkout at 58.94 in Lane 1 this customer experienced 2.82 wait time  this customer reached the front line at 55.59
+Customer 217 Arrived at 59.04
+Customer 378 finished Checkout at 59.06 in Lane 5 this customer experienced 0.85 wait time  this customer reached the front line at 57.96
+Customer 358 Arrived at 59.16
+Customer 133 finished Checkout at 59.24 in Lane 3 this customer experienced 1.39 wait time  this customer reached the front line at 55.04
+Customer 385 finished Checkout at 59.46 in Lane 4 this customer experienced 0.62 wait time  this customer reached the front line at 54.56
+Customer 249 Arrived at 59.84
+Customer 393 finished Checkout at 60.24 in Lane 6 this customer experienced 1.1 wait time  this customer reached the front line at 58.64
+Customer 407 finished Checkout at 60.26 in Lane 5 this customer experienced 0.51 wait time  this customer reached the front line at 59.06
+Customer 360 Finished shopping at 60.84
+Customer 360 has more than 12 items choose Lane 1 Number of customers already in line: 1
+Customer 443 Finished shopping at 60.89
+Customer 443 has more than 12 items choose Lane 3 Number of customers already in line: 1
+Customer 144 Arrived at 61.15
+Customer 40 Arrived at 61.4
+Customer 240 finished Checkout at 61.42 in Lane 2 this customer experienced 1.27 wait time  this customer reached the front line at 58.07
+Customer 192 Arrived at 61.43
+Customer 11 finished Checkout at 61.46 in Lane 5 this customer experienced 1.69 wait time  this customer reached the front line at 60.26
+Customer 106 Arrived at 61.53
+Customer 216 Arrived at 61.53
+Customer 269 Arrived at 61.55
+Customer 328 Finished shopping at 61.62
+Customer 328 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 335 finished Checkout at 62.16 in Lane 0 this customer experienced 2.25 wait time  this customer reached the front line at 57.36
+Customer 28 finished Checkout at 62.19 in Lane 1 this customer experienced 2.31 wait time  this customer reached the front line at 58.94
+Customer 292 finished Checkout at 62.31 in Lane 4 this customer experienced 1.51 wait time  this customer reached the front line at 59.46
+Customer 298 Finished shopping at 62.47
+Customer 298 has more than 12 items choose Lane 4 Number of customers already in line: 0
+Customer 67 Arrived at 62.6
+Customer 363 Finished shopping at 62.63
+Customer 363 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 54 finished Checkout at 62.64 in Lane 3 this customer experienced 1.38 wait time  this customer reached the front line at 59.24
+Customer 148 Arrived at 63.07
+Customer 115 Finished shopping at 63.19
+Customer 115 has more than 12 items choose Lane 0 Number of customers already in line: 1
+Customer 328 finished Checkout at 63.22 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 61.62
+Customer 324 Arrived at 63.42
+Customer 279 Arrived at 63.63
+Customer 306 Finished shopping at 63.64
+Customer 306 has more than 12 items choose Lane 1 Number of customers already in line: 1
+Customer 358 Finished shopping at 63.72
+Customer 358 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 490 Finished shopping at 63.76
+Customer 490 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 369 Finished shopping at 63.82
+Customer 369 has more than 12 items choose Lane 2 Number of customers already in line: 1
+Customer 272 Arrived at 63.84
+Customer 225 Arrived at 64.08
+Customer 285 Arrived at 64.11
+Customer 363 finished Checkout at 64.13 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 62.63
+Customer 217 Finished shopping at 64.16
+Customer 217 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 312 Finished shopping at 64.29
+Customer 312 has more than 12 items choose Lane 3 Number of customers already in line: 1
+Customer 148 Finished shopping at 64.49
+Customer 148 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 380 Arrived at 64.66
+Customer 348 finished Checkout at 64.67 in Lane 2 this customer experienced 3.16 wait time  this customer reached the front line at 61.42
+Customer 129 Arrived at 64.8
+Customer 214 Finished shopping at 65.09
+Customer 214 has more than 12 items choose Lane 2 Number of customers already in line: 1
+Customer 360 finished Checkout at 65.34 in Lane 1 this customer experienced 1.35 wait time  this customer reached the front line at 62.19
+Customer 454 Finished shopping at 65.49
+Customer 454 has more than 12 items choose Lane 1 Number of customers already in line: 1
+Customer 358 finished Checkout at 65.52 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 63.72
+Customer 7 Arrived at 65.64
+Customer 217 finished Checkout at 65.96 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 64.16
+Customer 443 finished Checkout at 66.04 in Lane 3 this customer experienced 1.75 wait time  this customer reached the front line at 62.64
+Customer 298 finished Checkout at 66.17 in Lane 4 this customer experienced 0.0 wait time  this customer reached the front line at 62.47
+Customer 316 Arrived at 66.35
+Customer 289 Finished shopping at 66.44
+Customer 289 has more than 12 items choose Lane 4 Number of customers already in line: 0
+Customer 93 finished Checkout at 66.46 in Lane 0 this customer experienced 4.39 wait time  this customer reached the front line at 62.16
+Customer 169 Arrived at 66.51
+Customer 47 Arrived at 66.9
+Customer 82 Finished shopping at 66.98
+Customer 82 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 148 finished Checkout at 67.06 in Lane 6 this customer experienced 1.47 wait time  this customer reached the front line at 65.96
+Customer 57 Arrived at 67.08
+Customer 474 Arrived at 67.2
+Customer 490 finished Checkout at 67.52 in Lane 5 this customer experienced 1.76 wait time  this customer reached the front line at 65.52
+Customer 175 Finished shopping at 67.53
+Customer 216 Finished shopping at 67.53
+Customer 175 has more than 12 items choose Lane 0 Number of customers already in line: 1
+Customer 216 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 91 Arrived at 67.68
+Customer 355 Finished shopping at 67.69
+Customer 355 has more than 12 items choose Lane 3 Number of customers already in line: 1
+Customer 427 Finished shopping at 67.71
+Customer 427 has more than 12 items choose Lane 4 Number of customers already in line: 1
+Customer 301 Finished shopping at 67.91
+Customer 301 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 270 Finished shopping at 68.01
+Customer 270 has more than 12 items choose Lane 0 Number of customers already in line: 2
+Customer 183 Arrived at 68.07
+Customer 222 Finished shopping at 68.22
+Customer 222 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 369 finished Checkout at 68.47 in Lane 2 this customer experienced 0.85 wait time  this customer reached the front line at 64.67
+Customer 220 Arrived at 68.57
+Customer 306 finished Checkout at 68.79 in Lane 1 this customer experienced 1.7 wait time  this customer reached the front line at 65.34
+Customer 186 Finished shopping at 68.79
+Customer 186 has more than 12 items choose Lane 1 Number of customers already in line: 1
+Customer 312 finished Checkout at 68.89 in Lane 3 this customer experienced 1.75 wait time  this customer reached the front line at 66.04
+Customer 368 Arrived at 68.91
+Customer 114 Arrived at 68.93
+Customer 10 Finished shopping at 69.13
+Customer 10 has more than 12 items choose Lane 2 Number of customers already in line: 1
+Customer 216 finished Checkout at 69.33 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 67.53
+Customer 82 finished Checkout at 69.52 in Lane 5 this customer experienced 0.54 wait time  this customer reached the front line at 67.52
+Customer 75 Finished shopping at 69.74
+Customer 75 has more than 12 items choose Lane 3 Number of customers already in line: 1
+Customer 115 finished Checkout at 69.76 in Lane 0 this customer experienced 3.27 wait time  this customer reached the front line at 66.46
+Customer 289 finished Checkout at 69.89 in Lane 4 this customer experienced 0.0 wait time  this customer reached the front line at 66.44
+Customer 114 Finished shopping at 70.0
+Customer 114 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 376 Arrived at 70.07
+Customer 16 Finished shopping at 70.18
+Customer 16 has more than 12 items choose Lane 4 Number of customers already in line: 1
+Customer 345 Arrived at 70.4
+Customer 184 Finished shopping at 70.83
+Customer 184 has more than 12 items choose Lane 0 Number of customers already in line: 2
+Customer 316 Finished shopping at 70.95
+Customer 316 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 222 finished Checkout at 71.23 in Lane 6 this customer experienced 1.11 wait time  this customer reached the front line at 69.33
+Customer 301 finished Checkout at 71.42 in Lane 5 this customer experienced 1.61 wait time  this customer reached the front line at 69.52
+Customer 451 Finished shopping at 71.48
+Customer 451 has more than 12 items choose Lane 1 Number of customers already in line: 2
+Customer 214 finished Checkout at 71.77 in Lane 2 this customer experienced 3.38 wait time  this customer reached the front line at 68.47
+Customer 380 Finished shopping at 71.81
+Customer 380 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 331 Finished shopping at 71.98
+Customer 331 has more than 12 items choose Lane 2 Number of customers already in line: 1
+Customer 129 Finished shopping at 72.0
+Customer 129 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 454 finished Checkout at 72.14 in Lane 1 this customer experienced 3.3 wait time  this customer reached the front line at 68.79
+Customer 282 Arrived at 72.32
+Customer 253 Finished shopping at 72.4
+Customer 253 has more than 12 items choose Lane 1 Number of customers already in line: 2
+Customer 114 finished Checkout at 72.52 in Lane 5 this customer experienced 1.42 wait time  this customer reached the front line at 71.42
+Customer 355 finished Checkout at 72.64 in Lane 3 this customer experienced 1.2 wait time  this customer reached the front line at 68.89
+Customer 316 finished Checkout at 72.73 in Lane 6 this customer experienced 0.28 wait time  this customer reached the front line at 71.23
+Customer 326 Arrived at 72.91
+Customer 27 Arrived at 72.93
+Customer 242 Finished shopping at 73.02
+Customer 242 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 21 Finished shopping at 73.23
+Customer 21 has more than 12 items choose Lane 3 Number of customers already in line: 1
+Customer 427 finished Checkout at 73.24 in Lane 4 this customer experienced 2.18 wait time  this customer reached the front line at 69.89
+Customer 276 Arrived at 73.27
+Customer 169 Finished shopping at 73.41
+Customer 169 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 251 Arrived at 73.47
+Customer 175 finished Checkout at 74.11 in Lane 0 this customer experienced 2.23 wait time  this customer reached the front line at 69.76
+Customer 91 Finished shopping at 74.24
+Customer 91 has 12 or less items choose Lane 4 Number of customers already in line: 1
+Customer 195 Finished shopping at 74.53
+Customer 195 has more than 12 items choose Lane 0 Number of customers already in line: 2
+Customer 398 Finished shopping at 74.55
+Customer 313 Arrived at 74.55
+Customer 398 has more than 12 items choose Lane 2 Number of customers already in line: 2
+Customer 168 Arrived at 74.58
+Customer 380 finished Checkout at 74.62 in Lane 5 this customer experienced 0.71 wait time  this customer reached the front line at 72.52
+Customer 197 Arrived at 74.64
+Customer 129 finished Checkout at 74.73 in Lane 6 this customer experienced 0.73 wait time  this customer reached the front line at 72.73
+Customer 106 Finished shopping at 74.84
+Customer 106 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 368 Finished shopping at 75.01
+Customer 368 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 207 Arrived at 75.05
+Customer 10 finished Checkout at 75.32 in Lane 2 this customer experienced 2.64 wait time  this customer reached the front line at 71.77
+Customer 500 Finished shopping at 75.4
+Customer 500 has more than 12 items choose Lane 2 Number of customers already in line: 2
+Customer 277 Finished shopping at 75.64
+Customer 277 has more than 12 items choose Lane 3 Number of customers already in line: 2
+Customer 192 Finished shopping at 75.68
+Customer 192 has more than 12 items choose Lane 4 Number of customers already in line: 2
+Customer 197 Finished shopping at 75.69
+Customer 197 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 164 Arrived at 75.87
+Customer 138 Finished shopping at 76.1
+Customer 138 has more than 12 items choose Lane 0 Number of customers already in line: 3
+Customer 282 Finished shopping at 76.22
+Customer 282 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 169 finished Checkout at 76.23 in Lane 6 this customer experienced 1.32 wait time  this customer reached the front line at 74.73
+Customer 364 Finished shopping at 76.46
+Customer 364 has more than 12 items choose Lane 1 Number of customers already in line: 3
+Customer 242 finished Checkout at 76.62 in Lane 5 this customer experienced 1.6 wait time  this customer reached the front line at 74.62
+Customer 186 finished Checkout at 76.84 in Lane 1 this customer experienced 3.35 wait time  this customer reached the front line at 72.14
+Customer 486 Finished shopping at 76.88
+Customer 486 has more than 12 items choose Lane 1 Number of customers already in line: 3
+Customer 174 Arrived at 76.98
+Customer 107 Finished shopping at 77.14
+Customer 107 has more than 12 items choose Lane 2 Number of customers already in line: 3
+Customer 16 finished Checkout at 77.49 in Lane 4 this customer experienced 3.06 wait time  this customer reached the front line at 73.24
+Customer 75 finished Checkout at 77.54 in Lane 3 this customer experienced 2.9 wait time  this customer reached the front line at 72.64
+Customer 488 Finished shopping at 77.55
+Customer 488 has more than 12 items choose Lane 3 Number of customers already in line: 2
+Customer 368 finished Checkout at 77.73 in Lane 6 this customer experienced 1.22 wait time  this customer reached the front line at 76.23
+Customer 362 Finished shopping at 78.05
+Customer 362 has more than 12 items choose Lane 4 Number of customers already in line: 2
+Customer 270 finished Checkout at 78.06 in Lane 0 this customer experienced 6.1 wait time  this customer reached the front line at 74.11
+Customer 204 Arrived at 78.09
+Customer 196 Finished shopping at 78.2
+Customer 196 has more than 12 items choose Lane 0 Number of customers already in line: 3
+Customer 331 finished Checkout at 78.52 in Lane 2 this customer experienced 3.34 wait time  this customer reached the front line at 75.32
+Customer 106 finished Checkout at 78.72 in Lane 5 this customer experienced 1.78 wait time  this customer reached the front line at 76.62
+Customer 459 Arrived at 78.87
+Customer 131 Finished shopping at 78.99
+Customer 131 has more than 12 items choose Lane 2 Number of customers already in line: 3
+Customer 282 finished Checkout at 79.03 in Lane 6 this customer experienced 1.51 wait time  this customer reached the front line at 77.73
+Customer 297 Arrived at 79.05
+Customer 170 Arrived at 79.1
+Customer 461 Finished shopping at 79.2
+Customer 461 has more than 12 items choose Lane 3 Number of customers already in line: 3
+Customer 321 Finished shopping at 79.47
+Customer 321 has more than 12 items choose Lane 4 Number of customers already in line: 3
+Customer 220 Finished shopping at 79.49
+Customer 220 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 274 Arrived at 79.61
+Customer 197 finished Checkout at 79.82 in Lane 5 this customer experienced 3.03 wait time  this customer reached the front line at 78.72
+Customer 91 finished Checkout at 79.89 in Lane 4 this customer experienced 3.25 wait time  this customer reached the front line at 77.49
+Customer 272 Finished shopping at 79.92
+Customer 272 has more than 12 items choose Lane 4 Number of customers already in line: 3
+Customer 162 Arrived at 80.09
+Customer 325 Arrived at 80.66
+Customer 184 finished Checkout at 80.96 in Lane 0 this customer experienced 7.23 wait time  this customer reached the front line at 78.06
+Customer 451 finished Checkout at 81.09 in Lane 1 this customer experienced 5.36 wait time  this customer reached the front line at 76.84
+Customer 336 Arrived at 81.29
+Customer 398 finished Checkout at 81.67 in Lane 2 this customer experienced 3.97 wait time  this customer reached the front line at 78.52
+Customer 220 finished Checkout at 81.69 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 79.49
+Customer 389 Arrived at 81.91
+Customer 21 finished Checkout at 81.94 in Lane 3 this customer experienced 4.31 wait time  this customer reached the front line at 77.54
+Customer 250 Arrived at 82.46
+Customer 324 Finished shopping at 82.46
+Customer 324 has more than 12 items choose Lane 0 Number of customers already in line: 3
+Customer 165 Finished shopping at 82.52
+Customer 377 Arrived at 82.52
+Customer 165 has more than 12 items choose Lane 1 Number of customers already in line: 3
+Customer 192 finished Checkout at 82.84 in Lane 4 this customer experienced 4.21 wait time  this customer reached the front line at 79.89
+Customer 259 Arrived at 82.85
+Customer 395 Finished shopping at 83.29
+Customer 395 has more than 12 items choose Lane 2 Number of customers already in line: 3
+Customer 130 Arrived at 83.32
+Customer 264 Arrived at 83.36
+Customer 287 Arrived at 83.41
+Customer 203 Arrived at 83.48
+Customer 432 Arrived at 83.72
+Customer 370 Arrived at 84.02
+Customer 164 Finished shopping at 84.03
+Customer 164 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 396 Arrived at 84.05
+Customer 40 Finished shopping at 84.39
+Customer 40 has more than 12 items choose Lane 3 Number of customers already in line: 3
+Customer 89 Finished shopping at 84.42
+Customer 89 has more than 12 items choose Lane 4 Number of customers already in line: 3
+Customer 287 Finished shopping at 84.51
+Customer 287 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 319 Arrived at 84.69
+Customer 84 Arrived at 85.13
+Customer 305 Arrived at 85.16
+Customer 285 Finished shopping at 85.27
+Customer 285 has more than 12 items choose Lane 0 Number of customers already in line: 4
+Customer 253 finished Checkout at 85.29 in Lane 1 this customer experienced 8.69 wait time  this customer reached the front line at 81.09
+Customer 277 finished Checkout at 85.29 in Lane 3 this customer experienced 6.3 wait time  this customer reached the front line at 81.94
+Customer 396 Finished shopping at 85.33
+Customer 396 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 287 finished Checkout at 85.61 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 84.51
+Customer 195 finished Checkout at 85.76 in Lane 0 this customer experienced 6.43 wait time  this customer reached the front line at 80.96
+Customer 164 finished Checkout at 85.83 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 84.03
+Customer 417 Finished shopping at 85.97
+Customer 500 finished Checkout at 85.97 in Lane 2 this customer experienced 6.27 wait time  this customer reached the front line at 81.67
+Customer 417 has more than 12 items choose Lane 1 Number of customers already in line: 3
+Customer 281 Finished shopping at 85.99
+Customer 281 has more than 12 items choose Lane 2 Number of customers already in line: 3
+Customer 370 Finished shopping at 86.15
+Customer 370 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 497 Arrived at 86.27
+Customer 284 Arrived at 86.28
+Customer 42 Arrived at 86.43
+Customer 237 Finished shopping at 86.67
+Customer 237 has more than 12 items choose Lane 3 Number of customers already in line: 3
+Customer 396 finished Checkout at 86.93 in Lane 5 this customer experienced 0.5 wait time  this customer reached the front line at 85.83
+Customer 13 Finished shopping at 87.15
+Customer 13 has more than 12 items choose Lane 0 Number of customers already in line: 4
+Customer 124 Finished shopping at 87.17
+Customer 124 has more than 12 items choose Lane 1 Number of customers already in line: 4
+Customer 362 finished Checkout at 87.24 in Lane 4 this customer experienced 4.79 wait time  this customer reached the front line at 82.84
+Customer 151 Arrived at 87.42
+Customer 130 Finished shopping at 87.44
+Customer 130 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 370 finished Checkout at 87.45 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 86.15
+Customer 135 Arrived at 87.47
+Customer 319 Finished shopping at 88.02
+Customer 319 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 207 Finished shopping at 88.05
+Customer 207 has more than 12 items choose Lane 4 Number of customers already in line: 3
+Customer 156 Arrived at 88.48
+Customer 130 finished Checkout at 88.84 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 87.44
+Customer 174 Finished shopping at 88.98
+Customer 46 Arrived at 88.98
+Customer 174 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 494 Arrived at 89.0
+Customer 138 finished Checkout at 89.11 in Lane 0 this customer experienced 9.66 wait time  this customer reached the front line at 85.76
+Customer 319 finished Checkout at 89.32 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 88.02
+Customer 42 Finished shopping at 89.53
+Customer 42 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 364 finished Checkout at 89.54 in Lane 1 this customer experienced 8.83 wait time  this customer reached the front line at 85.29
+Customer 71 Finished shopping at 89.67
+Customer 71 has more than 12 items choose Lane 0 Number of customers already in line: 4
+Customer 84 Finished shopping at 89.68
+Customer 84 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 183 Finished shopping at 89.73
+Customer 183 has more than 12 items choose Lane 1 Number of customers already in line: 4
+Customer 361 Arrived at 89.82
+Customer 41 Arrived at 89.97
+Customer 488 finished Checkout at 90.24 in Lane 3 this customer experienced 7.74 wait time  this customer reached the front line at 85.29
+Customer 56 Arrived at 90.29
+Customer 225 Finished shopping at 90.64
+Customer 225 has more than 12 items choose Lane 3 Number of customers already in line: 3
+Customer 107 finished Checkout at 90.72 in Lane 2 this customer experienced 8.83 wait time  this customer reached the front line at 85.97
+Customer 98 Arrived at 90.75
+Customer 42 finished Checkout at 91.03 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 89.53
+Customer 174 finished Checkout at 91.18 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 88.98
+Customer 463 Arrived at 91.27
+Customer 151 Finished shopping at 91.41
+Customer 151 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 433 Finished shopping at 91.57
+Customer 433 has more than 12 items choose Lane 2 Number of customers already in line: 3
+Customer 325 Finished shopping at 91.86
+Customer 325 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 259 Finished shopping at 91.88
+Customer 259 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 321 finished Checkout at 92.04 in Lane 4 this customer experienced 7.77 wait time  this customer reached the front line at 87.24
+Customer 173 Arrived at 92.22
+Customer 135 Finished shopping at 92.33
+Customer 135 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 300 Finished shopping at 92.49
+Customer 300 has more than 12 items choose Lane 4 Number of customers already in line: 3
+Customer 136 Finished shopping at 92.5
+Customer 136 has more than 12 items choose Lane 2 Number of customers already in line: 4
+Customer 84 finished Checkout at 92.68 in Lane 5 this customer experienced 1.5 wait time  this customer reached the front line at 91.18
+Customer 151 finished Checkout at 92.71 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 91.41
+Customer 275 Arrived at 93.09
+Customer 112 Arrived at 93.12
+Customer 457 Arrived at 93.27
+Customer 376 Finished shopping at 93.31
+Customer 376 has more than 12 items choose Lane 3 Number of customers already in line: 4
+Customer 199 Finished shopping at 93.34
+Customer 199 has more than 12 items choose Lane 4 Number of customers already in line: 4
+Customer 230 Arrived at 93.35
+Customer 415 Arrived at 93.41
+Customer 486 finished Checkout at 93.49 in Lane 1 this customer experienced 12.66 wait time  this customer reached the front line at 89.54
+Customer 249 Finished shopping at 94.0
+Customer 249 has more than 12 items choose Lane 1 Number of customers already in line: 4
+Customer 196 finished Checkout at 94.06 in Lane 0 this customer experienced 10.91 wait time  this customer reached the front line at 89.11
+Customer 259 finished Checkout at 94.41 in Lane 6 this customer experienced 0.83 wait time  this customer reached the front line at 92.71
+Customer 325 finished Checkout at 94.48 in Lane 5 this customer experienced 0.82 wait time  this customer reached the front line at 92.68
+Customer 284 Finished shopping at 94.83
+Customer 284 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 461 finished Checkout at 94.99 in Lane 3 this customer experienced 11.04 wait time  this customer reached the front line at 90.24
+Customer 36 Arrived at 95.01
+Customer 131 finished Checkout at 95.02 in Lane 2 this customer experienced 11.73 wait time  this customer reached the front line at 90.72
+Customer 178 Arrived at 95.06
+Customer 250 Finished shopping at 95.15
+Customer 250 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 382 Arrived at 95.18
+Customer 272 finished Checkout at 95.24 in Lane 4 this customer experienced 12.12 wait time  this customer reached the front line at 92.04
+Customer 470 Arrived at 95.58
+Customer 437 Arrived at 95.85
+Customer 135 finished Checkout at 96.08 in Lane 5 this customer experienced 2.15 wait time  this customer reached the front line at 94.48
+Customer 262 Arrived at 96.09
+Customer 177 Arrived at 96.2
+Customer 67 Finished shopping at 96.48
+Customer 67 has more than 12 items choose Lane 0 Number of customers already in line: 4
+Customer 284 finished Checkout at 96.73 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 94.83
+Customer 87 Finished shopping at 96.79
+Customer 87 has more than 12 items choose Lane 2 Number of customers already in line: 4
+Customer 359 Arrived at 96.81
+Customer 439 Arrived at 96.82
+Customer 239 Arrived at 96.84
+Customer 178 Finished shopping at 96.88
+Customer 178 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 366 Arrived at 96.89
+Customer 324 finished Checkout at 96.91 in Lane 0 this customer experienced 11.6 wait time  this customer reached the front line at 94.06
+Customer 122 Arrived at 96.91
+Customer 457 Finished shopping at 96.97
+Customer 457 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 47 Finished shopping at 97.0
+Customer 47 has more than 12 items choose Lane 0 Number of customers already in line: 4
+Customer 473 Arrived at 97.08
+Customer 165 finished Checkout at 97.09 in Lane 1 this customer experienced 10.97 wait time  this customer reached the front line at 93.49
+Customer 255 Arrived at 97.2
+Customer 251 Finished shopping at 97.23
+Customer 251 has more than 12 items choose Lane 1 Number of customers already in line: 4
+Customer 177 Finished shopping at 97.23
+Customer 177 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 361 Finished shopping at 97.29
+Customer 361 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 60 Arrived at 97.37
+Customer 9 Arrived at 97.53
+Customer 470 Finished shopping at 97.62
+Customer 470 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 421 Arrived at 97.79
+Customer 305 Finished shopping at 97.9
+Customer 305 has more than 12 items choose Lane 3 Number of customers already in line: 4
+Customer 40 finished Checkout at 97.94 in Lane 3 this customer experienced 10.6 wait time  this customer reached the front line at 94.99
+Customer 122 Finished shopping at 97.98
+Customer 122 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 250 finished Checkout at 97.98 in Lane 5 this customer experienced 0.93 wait time  this customer reached the front line at 96.08
+Customer 172 Arrived at 98.01
+Customer 178 finished Checkout at 98.08 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 96.88
+Customer 89 finished Checkout at 98.44 in Lane 4 this customer experienced 10.82 wait time  this customer reached the front line at 95.24
+Customer 395 finished Checkout at 98.62 in Lane 2 this customer experienced 11.73 wait time  this customer reached the front line at 95.02
+Customer 8 Arrived at 98.66
+Customer 294 Arrived at 98.93
+Customer 366 Finished shopping at 98.99
+Customer 366 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 177 finished Checkout at 99.18 in Lane 6 this customer experienced 0.85 wait time  this customer reached the front line at 98.08
+Customer 185 Arrived at 99.18
+Customer 8 Finished shopping at 99.24
+Customer 8 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 457 finished Checkout at 99.48 in Lane 5 this customer experienced 1.01 wait time  this customer reached the front line at 97.98
+Customer 432 Finished shopping at 99.52
+Customer 432 has more than 12 items choose Lane 4 Number of customers already in line: 3
+Customer 421 Finished shopping at 99.53
+Customer 421 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 285 finished Checkout at 100.06 in Lane 0 this customer experienced 11.64 wait time  this customer reached the front line at 96.91
+Customer 248 Arrived at 100.08
+Customer 440 Arrived at 100.32
+Customer 470 finished Checkout at 100.58 in Lane 6 this customer experienced 1.56 wait time  this customer reached the front line at 99.18
+Customer 166 Arrived at 100.85
+Customer 41 Finished shopping at 100.87
+Customer 41 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 459 Finished shopping at 100.91
+Customer 459 has more than 12 items choose Lane 0 Number of customers already in line: 4
+Customer 144 Finished shopping at 100.93
+Customer 144 has more than 12 items choose Lane 2 Number of customers already in line: 4
+Customer 167 Arrived at 101.04
+Customer 207 finished Checkout at 101.09 in Lane 4 this customer experienced 10.39 wait time  this customer reached the front line at 98.44
+Customer 417 finished Checkout at 101.34 in Lane 1 this customer experienced 11.12 wait time  this customer reached the front line at 97.09
+Customer 361 finished Checkout at 101.38 in Lane 5 this customer experienced 2.19 wait time  this customer reached the front line at 99.48
+Customer 237 finished Checkout at 101.44 in Lane 3 this customer experienced 11.27 wait time  this customer reached the front line at 97.94
+Customer 27 Finished shopping at 101.55
+Customer 27 has more than 12 items choose Lane 3 Number of customers already in line: 3
+Customer 366 finished Checkout at 101.78 in Lane 6 this customer experienced 1.59 wait time  this customer reached the front line at 100.58
+Customer 473 Finished shopping at 101.84
+Customer 473 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 414 Arrived at 101.97
+Customer 212 Finished shopping at 102.03
+Customer 315 Finished shopping at 102.03
+Customer 212 has more than 12 items choose Lane 4 Number of customers already in line: 3
+Customer 315 has more than 12 items choose Lane 1 Number of customers already in line: 4
+Customer 359 Finished shopping at 102.25
+Customer 359 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 122 finished Checkout at 102.48 in Lane 5 this customer experienced 3.4 wait time  this customer reached the front line at 101.38
+Customer 170 Finished shopping at 102.76
+Customer 170 has more than 12 items choose Lane 3 Number of customers already in line: 4
+Customer 8 finished Checkout at 102.88 in Lane 6 this customer experienced 2.54 wait time  this customer reached the front line at 101.78
+Customer 444 Arrived at 102.96
+Customer 365 Arrived at 103.16
+Customer 387 Arrived at 103.22
+Customer 223 Arrived at 103.23
+Customer 263 Arrived at 103.35
+Customer 269 Finished shopping at 103.47
+Customer 269 has more than 12 items choose Lane 4 Number of customers already in line: 4
+Customer 200 Arrived at 103.48
+Customer 281 finished Checkout at 103.52 in Lane 2 this customer experienced 12.63 wait time  this customer reached the front line at 98.62
+Customer 421 finished Checkout at 103.68 in Lane 5 this customer experienced 2.95 wait time  this customer reached the front line at 102.48
+Customer 334 Arrived at 103.73
+Customer 79 Finished shopping at 103.97
+Customer 79 has more than 12 items choose Lane 2 Number of customers already in line: 4
+Customer 276 Finished shopping at 103.99
+Customer 276 has more than 12 items choose Lane 0 Number of customers already in line: 5
+Customer 36 Finished shopping at 104.11
+Customer 36 has more than 12 items choose Lane 1 Number of customers already in line: 5
+Customer 20 Arrived at 104.15
+Customer 415 Finished shopping at 104.3
+Customer 415 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 41 finished Checkout at 104.88 in Lane 6 this customer experienced 2.01 wait time  this customer reached the front line at 102.88
+Customer 13 finished Checkout at 104.91 in Lane 0 this customer experienced 12.91 wait time  this customer reached the front line at 100.06
+Customer 225 finished Checkout at 105.04 in Lane 3 this customer experienced 10.8 wait time  this customer reached the front line at 101.44
+Customer 473 finished Checkout at 105.08 in Lane 5 this customer experienced 1.84 wait time  this customer reached the front line at 103.68
+Customer 33 Arrived at 105.35
+Customer 172 Finished shopping at 105.48
+Customer 172 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 271 Arrived at 105.52
+Customer 300 finished Checkout at 105.64 in Lane 4 this customer experienced 8.6 wait time  this customer reached the front line at 101.09
+Customer 498 Arrived at 105.87
+Customer 24 Arrived at 105.89
+Customer 410 Arrived at 105.98
+Customer 347 Arrived at 106.05
+Customer 230 Finished shopping at 106.09
+Customer 230 has more than 12 items choose Lane 3 Number of customers already in line: 4
+Customer 359 finished Checkout at 106.28 in Lane 6 this customer experienced 2.63 wait time  this customer reached the front line at 104.88
+Customer 124 finished Checkout at 106.34 in Lane 1 this customer experienced 14.17 wait time  this customer reached the front line at 101.34
+Customer 350 Arrived at 106.41
+Customer 439 Finished shopping at 106.66
+Customer 439 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 494 Finished shopping at 106.69
+Customer 494 has more than 12 items choose Lane 4 Number of customers already in line: 4
+Customer 415 finished Checkout at 106.98 in Lane 5 this customer experienced 0.78 wait time  this customer reached the front line at 105.08
+Customer 389 Finished shopping at 106.99
+Customer 389 has more than 12 items choose Lane 0 Number of customers already in line: 5
+Customer 467 Arrived at 107.01
+Customer 262 Finished shopping at 107.34
+Customer 262 has more than 12 items choose Lane 1 Number of customers already in line: 5
+Customer 288 Arrived at 107.37
+Customer 58 Arrived at 107.55
+Customer 189 Arrived at 107.79
+Customer 394 Arrived at 107.79
+Customer 433 finished Checkout at 107.97 in Lane 2 this customer experienced 11.95 wait time  this customer reached the front line at 103.52
+Customer 288 Finished shopping at 108.31
+Customer 288 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 70 Finished shopping at 108.41
+Customer 70 has more than 12 items choose Lane 2 Number of customers already in line: 4
+Customer 376 finished Checkout at 108.44 in Lane 3 this customer experienced 11.73 wait time  this customer reached the front line at 105.04
+Customer 274 Finished shopping at 108.73
+Customer 274 has more than 12 items choose Lane 3 Number of customers already in line: 4
+Customer 86 Arrived at 108.75
+Customer 439 finished Checkout at 108.86 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 106.66
+Customer 467 Finished shopping at 108.87
+Customer 467 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 172 finished Checkout at 108.88 in Lane 5 this customer experienced 1.5 wait time  this customer reached the front line at 106.98
+Customer 38 Arrived at 109.25
+Customer 59 Arrived at 109.27
+Customer 313 Finished shopping at 109.33
+Customer 313 has more than 12 items choose Lane 2 Number of customers already in line: 5
+Customer 480 Arrived at 109.41
+Customer 466 Arrived at 109.65
+Customer 71 finished Checkout at 109.66 in Lane 0 this customer experienced 15.24 wait time  this customer reached the front line at 104.91
+Customer 346 Finished shopping at 109.82
+Customer 346 has more than 12 items choose Lane 0 Number of customers already in line: 5
+Customer 57 Finished shopping at 109.86
+Customer 57 has more than 12 items choose Lane 3 Number of customers already in line: 5
+Customer 347 Finished shopping at 109.9
+Customer 347 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 288 finished Checkout at 109.98 in Lane 5 this customer experienced 0.57 wait time  this customer reached the front line at 108.88
+Customer 326 Finished shopping at 110.11
+Customer 326 has more than 12 items choose Lane 4 Number of customers already in line: 5
+Customer 467 finished Checkout at 110.17 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 108.87
+Customer 185 Finished shopping at 110.22
+Customer 185 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 183 finished Checkout at 110.24 in Lane 1 this customer experienced 16.61 wait time  this customer reached the front line at 106.34
+Customer 142 Finished shopping at 110.25
+Customer 142 has more than 12 items choose Lane 1 Number of customers already in line: 5
+Customer 334 Finished shopping at 110.36
+Customer 334 has more than 12 items choose Lane 0 Number of customers already in line: 6
+Customer 24 Finished shopping at 110.51
+Customer 24 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 199 finished Checkout at 110.54 in Lane 4 this customer experienced 12.3 wait time  this customer reached the front line at 105.64
+Customer 340 Arrived at 110.79
+Customer 239 Finished shopping at 110.84
+Customer 239 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 116 Arrived at 111.07
+Customer 83 Arrived at 111.09
+Customer 305 finished Checkout at 111.09 in Lane 3 this customer experienced 10.54 wait time  this customer reached the front line at 108.44
+Customer 350 Finished shopping at 111.18
+Customer 350 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 347 finished Checkout at 111.48 in Lane 5 this customer experienced 0.08 wait time  this customer reached the front line at 109.98
+Customer 322 Arrived at 111.5
+Customer 353 Arrived at 111.69
+Customer 189 Finished shopping at 112.08
+Customer 189 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 275 Finished shopping at 112.23
+Customer 275 has more than 12 items choose Lane 3 Number of customers already in line: 5
+Customer 185 finished Checkout at 112.42 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 110.22
+Customer 372 Arrived at 112.52
+Customer 83 Finished shopping at 112.52
+Customer 83 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 471 Arrived at 112.56
+Customer 136 finished Checkout at 112.72 in Lane 2 this customer experienced 15.47 wait time  this customer reached the front line at 107.97
+Customer 17 Arrived at 112.74
+Customer 2 Arrived at 112.74
+Customer 58 Finished shopping at 112.83
+Customer 58 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 63 Arrived at 112.86
+Customer 125 Arrived at 112.89
+Customer 386 Arrived at 112.94
+Customer 67 finished Checkout at 113.06 in Lane 0 this customer experienced 13.18 wait time  this customer reached the front line at 109.66
+Customer 24 finished Checkout at 113.08 in Lane 5 this customer experienced 0.97 wait time  this customer reached the front line at 111.48
+Customer 2 Finished shopping at 113.28
+Customer 2 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 243 Finished shopping at 113.29
+Customer 243 has more than 12 items choose Lane 2 Number of customers already in line: 5
+Customer 394 Finished shopping at 113.31
+Customer 394 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 330 Arrived at 113.38
+Customer 432 finished Checkout at 113.54 in Lane 4 this customer experienced 11.02 wait time  this customer reached the front line at 110.54
+Customer 450 Arrived at 113.58
+Customer 60 Finished shopping at 113.71
+Customer 60 has more than 12 items choose Lane 4 Number of customers already in line: 4
+Customer 309 Arrived at 113.94
+Customer 330 Finished shopping at 113.96
+Customer 330 has 12 or less items choose Lane 6 Number of customers already in line: 3
+Customer 299 Arrived at 114.02
+Customer 18 Arrived at 114.3
+Customer 125 Finished shopping at 114.33
+Customer 125 has 12 or less items choose Lane 5 Number of customers already in line: 4
+Customer 291 Arrived at 114.35
+Customer 442 Arrived at 114.36
+Customer 239 finished Checkout at 114.42 in Lane 6 this customer experienced 1.58 wait time  this customer reached the front line at 112.42
+Customer 27 finished Checkout at 114.44 in Lane 3 this customer experienced 9.54 wait time  this customer reached the front line at 111.09
+Customer 7 Finished shopping at 114.6
+Customer 7 has more than 12 items choose Lane 3 Number of customers already in line: 5
+Customer 110 Arrived at 114.63
+Customer 444 Finished shopping at 114.64
+Customer 444 has more than 12 items choose Lane 4 Number of customers already in line: 5
+Customer 410 Finished shopping at 114.87
+Customer 410 has 12 or less items choose Lane 6 Number of customers already in line: 3
+Customer 101 Arrived at 114.93
+Customer 257 Arrived at 114.93
+Customer 350 finished Checkout at 114.98 in Lane 5 this customer experienced 1.9 wait time  this customer reached the front line at 113.08
+Customer 353 Finished shopping at 115.02
+Customer 353 has 12 or less items choose Lane 5 Number of customers already in line: 4
+Customer 249 finished Checkout at 115.04 in Lane 1 this customer experienced 16.24 wait time  this customer reached the front line at 110.24
+Customer 83 finished Checkout at 115.52 in Lane 6 this customer experienced 1.9 wait time  this customer reached the front line at 114.42
+Customer 228 Arrived at 115.57
+Customer 235 Arrived at 115.57
+Customer 387 Finished shopping at 115.82
+Customer 387 has more than 12 items choose Lane 1 Number of customers already in line: 5
+Customer 279 Finished shopping at 115.88
+Customer 279 has more than 12 items choose Lane 0 Number of customers already in line: 6
+Customer 109 Arrived at 116.27
+Customer 189 finished Checkout at 116.28 in Lane 5 this customer experienced 2.9 wait time  this customer reached the front line at 114.98
+Customer 482 Arrived at 116.4
+Customer 52 Arrived at 116.49
+Customer 51 Arrived at 116.57
+Customer 474 Finished shopping at 116.67
+Customer 474 has more than 12 items choose Lane 1 Number of customers already in line: 6
+Customer 386 Finished shopping at 116.72
+Customer 386 has 12 or less items choose Lane 6 Number of customers already in line: 3
+Customer 112 Finished shopping at 116.75
+Customer 159 Arrived at 116.75
+Customer 112 has more than 12 items choose Lane 2 Number of customers already in line: 6
+Customer 117 Arrived at 116.78
+Customer 431 Arrived at 116.89
+Customer 58 finished Checkout at 116.92 in Lane 6 this customer experienced 2.69 wait time  this customer reached the front line at 115.52
+Customer 449 Arrived at 117.02
+Customer 466 Finished shopping at 117.15
+Customer 466 has 12 or less items choose Lane 6 Number of customers already in line: 3
+Customer 383 Arrived at 117.2
+Customer 47 finished Checkout at 117.21 in Lane 0 this customer experienced 16.06 wait time  this customer reached the front line at 113.06
+Customer 2 finished Checkout at 117.38 in Lane 5 this customer experienced 3.0 wait time  this customer reached the front line at 116.28
+Customer 87 finished Checkout at 117.57 in Lane 2 this customer experienced 15.93 wait time  this customer reached the front line at 112.72
+Customer 170 finished Checkout at 117.74 in Lane 3 this customer experienced 11.68 wait time  this customer reached the front line at 114.44
+Customer 330 finished Checkout at 118.02 in Lane 6 this customer experienced 2.96 wait time  this customer reached the front line at 116.92
+Customer 251 finished Checkout at 118.24 in Lane 1 this customer experienced 17.81 wait time  this customer reached the front line at 115.04
+Customer 5 Arrived at 118.26
+Customer 212 finished Checkout at 118.34 in Lane 4 this customer experienced 11.51 wait time  this customer reached the front line at 113.54
+Customer 462 Arrived at 118.53
+Customer 299 Finished shopping at 118.58
+Customer 299 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 100 Arrived at 118.63
+Customer 98 Finished shopping at 118.81
+Customer 98 has more than 12 items choose Lane 3 Number of customers already in line: 5
+Customer 394 finished Checkout at 118.98 in Lane 5 this customer experienced 4.07 wait time  this customer reached the front line at 117.38
+Customer 431 Finished shopping at 119.14
+Customer 431 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 410 finished Checkout at 119.72 in Lane 6 this customer experienced 3.15 wait time  this customer reached the front line at 118.02
+Customer 255 Finished shopping at 119.88
+Customer 255 has more than 12 items choose Lane 4 Number of customers already in line: 5
+Customer 173 Finished shopping at 119.94
+Customer 173 has more than 12 items choose Lane 0 Number of customers already in line: 6
+Customer 302 Arrived at 119.97
+Customer 477 Arrived at 119.98
+Customer 345 Finished shopping at 120.0
+Customer 345 has more than 12 items choose Lane 1 Number of customers already in line: 6
+Customer 38 Finished shopping at 120.05
+Customer 38 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 125 finished Checkout at 120.18 in Lane 5 this customer experienced 4.65 wait time  this customer reached the front line at 118.98
+Customer 48 Arrived at 120.2
+Customer 309 Finished shopping at 120.33
+Customer 309 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 78 Arrived at 120.44
+Customer 230 finished Checkout at 120.44 in Lane 3 this customer experienced 11.65 wait time  this customer reached the front line at 117.74
+Customer 168 Finished shopping at 120.58
+Customer 168 has more than 12 items choose Lane 3 Number of customers already in line: 5
+Customer 86 Finished shopping at 120.71
+Customer 86 has more than 12 items choose Lane 2 Number of customers already in line: 6
+Customer 291 Finished shopping at 120.75
+Customer 291 has 12 or less items choose Lane 6 Number of customers already in line: 3
+Customer 497 Finished shopping at 120.77
+Customer 497 has more than 12 items choose Lane 3 Number of customers already in line: 6
+Customer 337 Arrived at 120.82
+Customer 73 Finished shopping at 120.88
+Customer 73 has more than 12 items choose Lane 4 Number of customers already in line: 6
+Customer 81 Arrived at 121.02
+Customer 459 finished Checkout at 121.11 in Lane 0 this customer experienced 16.3 wait time  this customer reached the front line at 117.21
+Customer 100 Finished shopping at 121.13
+Customer 100 has 12 or less items choose Lane 5 Number of customers already in line: 4
+Customer 386 finished Checkout at 121.42 in Lane 6 this customer experienced 3.0 wait time  this customer reached the front line at 119.72
+Customer 353 finished Checkout at 121.48 in Lane 5 this customer experienced 5.16 wait time  this customer reached the front line at 120.18
+Customer 144 finished Checkout at 121.52 in Lane 2 this customer experienced 16.64 wait time  this customer reached the front line at 117.57
+Customer 127 Arrived at 121.63
+Customer 269 finished Checkout at 121.94 in Lane 4 this customer experienced 14.87 wait time  this customer reached the front line at 118.34
+Customer 315 finished Checkout at 122.44 in Lane 1 this customer experienced 16.21 wait time  this customer reached the front line at 118.24
+Customer 340 Finished shopping at 122.47
+Customer 340 has 12 or less items choose Lane 6 Number of customers already in line: 3
+Customer 299 finished Checkout at 122.88 in Lane 5 this customer experienced 2.9 wait time  this customer reached the front line at 121.48
+Customer 466 finished Checkout at 123.02 in Lane 6 this customer experienced 4.27 wait time  this customer reached the front line at 121.42
+Customer 383 Finished shopping at 123.29
+Customer 383 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 74 Arrived at 123.66
+Customer 382 Finished shopping at 123.68
+Customer 382 has more than 12 items choose Lane 0 Number of customers already in line: 6
+Customer 274 finished Checkout at 123.74 in Lane 3 this customer experienced 11.71 wait time  this customer reached the front line at 120.44
+Customer 480 Finished shopping at 123.84
+Customer 480 has more than 12 items choose Lane 1 Number of customers already in line: 6
+Customer 482 Finished shopping at 123.85
+Customer 482 has 12 or less items choose Lane 6 Number of customers already in line: 3
+Customer 213 Arrived at 123.86
+Customer 241 Arrived at 124.14
+Customer 431 finished Checkout at 124.18 in Lane 5 this customer experienced 3.74 wait time  this customer reached the front line at 122.88
+Customer 409 Arrived at 124.25
+Customer 419 Arrived at 124.37
+Customer 18 Finished shopping at 124.62
+Customer 18 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 352 Arrived at 124.73
+Customer 233 Arrived at 124.82
+Customer 132 Arrived at 124.88
+Customer 36 finished Checkout at 125.14 in Lane 1 this customer experienced 18.33 wait time  this customer reached the front line at 122.44
+Customer 38 finished Checkout at 125.22 in Lane 6 this customer experienced 2.97 wait time  this customer reached the front line at 123.02
+Customer 494 finished Checkout at 125.39 in Lane 4 this customer experienced 15.25 wait time  this customer reached the front line at 121.94
+Customer 276 finished Checkout at 125.51 in Lane 0 this customer experienced 17.12 wait time  this customer reached the front line at 121.11
+Customer 402 Arrived at 125.61
+Customer 14 Arrived at 125.63
+Customer 203 Finished shopping at 125.78
+Customer 203 has more than 12 items choose Lane 4 Number of customers already in line: 5
+Customer 108 Arrived at 126.07
+Customer 309 finished Checkout at 126.08 in Lane 5 this customer experienced 3.85 wait time  this customer reached the front line at 124.18
+Customer 477 Finished shopping at 126.16
+Customer 477 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 79 finished Checkout at 126.17 in Lane 2 this customer experienced 17.55 wait time  this customer reached the front line at 121.52
+Customer 162 Finished shopping at 126.17
+Customer 162 has more than 12 items choose Lane 2 Number of customers already in line: 5
+Customer 264 Finished shopping at 126.2
+Customer 264 has more than 12 items choose Lane 0 Number of customers already in line: 6
+Customer 336 Finished shopping at 126.43
+Customer 336 has more than 12 items choose Lane 1 Number of customers already in line: 6
+Customer 181 Arrived at 126.72
+Customer 291 finished Checkout at 126.72 in Lane 6 this customer experienced 4.47 wait time  this customer reached the front line at 125.22
+Customer 108 Finished shopping at 127.26
+Customer 108 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 100 finished Checkout at 127.28 in Lane 5 this customer experienced 4.95 wait time  this customer reached the front line at 126.08
+Customer 215 Arrived at 127.29
+Customer 57 finished Checkout at 127.29 in Lane 3 this customer experienced 13.88 wait time  this customer reached the front line at 123.74
+Customer 257 Finished shopping at 127.35
+Customer 257 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 449 Finished shopping at 127.5
+Customer 449 has 12 or less items choose Lane 6 Number of customers already in line: 3
+Customer 252 Arrived at 127.76
+Customer 23 Arrived at 127.77
+Customer 262 finished Checkout at 127.89 in Lane 1 this customer experienced 17.8 wait time  this customer reached the front line at 125.14
+Customer 302 Finished shopping at 128.01
+Customer 302 has 12 or less items choose Lane 5 Number of customers already in line: 4
+Customer 49 Arrived at 128.22
+Customer 471 Finished shopping at 128.33
+Customer 471 has more than 12 items choose Lane 3 Number of customers already in line: 5
+Customer 127 Finished shopping at 128.43
+Customer 127 has 12 or less items choose Lane 6 Number of customers already in line: 4
+Customer 340 finished Checkout at 128.52 in Lane 6 this customer experienced 4.25 wait time  this customer reached the front line at 126.72
+Customer 99 Arrived at 128.58
+Customer 248 Finished shopping at 128.78
+Customer 204 Finished shopping at 128.78
+Customer 248 has more than 12 items choose Lane 1 Number of customers already in line: 6
+Customer 204 has more than 12 items choose Lane 2 Number of customers already in line: 6
+Customer 399 Arrived at 128.8
+Customer 213 Finished shopping at 128.82
+Customer 213 has 12 or less items choose Lane 6 Number of customers already in line: 4
+Customer 383 finished Checkout at 128.98 in Lane 5 this customer experienced 3.99 wait time  this customer reached the front line at 127.28
+Customer 391 Arrived at 129.08
+Customer 110 Finished shopping at 129.26
+Customer 110 has more than 12 items choose Lane 3 Number of customers already in line: 6
+Customer 295 Arrived at 129.27
+Customer 152 Arrived at 129.57
+Customer 389 finished Checkout at 129.71 in Lane 0 this customer experienced 18.52 wait time  this customer reached the front line at 125.51
+Customer 9 Finished shopping at 129.86
+Customer 9 has more than 12 items choose Lane 0 Number of customers already in line: 6
+Customer 435 Arrived at 129.96
+Customer 482 finished Checkout at 130.02 in Lane 6 this customer experienced 4.67 wait time  this customer reached the front line at 128.52
+Customer 341 Arrived at 130.39
+Customer 326 finished Checkout at 130.39 in Lane 4 this customer experienced 15.28 wait time  this customer reached the front line at 125.39
+Customer 371 Arrived at 130.48
+Customer 103 Arrived at 130.48
+Customer 377 Finished shopping at 130.49
+Customer 377 has more than 12 items choose Lane 4 Number of customers already in line: 5
+Customer 52 Finished shopping at 130.74
+Customer 275 finished Checkout at 130.74 in Lane 3 this customer experienced 15.06 wait time  this customer reached the front line at 127.29
+Customer 52 has more than 12 items choose Lane 4 Number of customers already in line: 6
+Customer 297 Finished shopping at 131.05
+Customer 297 has more than 12 items choose Lane 3 Number of customers already in line: 6
+Customer 108 finished Checkout at 131.12 in Lane 6 this customer experienced 2.76 wait time  this customer reached the front line at 130.02
+Customer 70 finished Checkout at 131.17 in Lane 2 this customer experienced 17.76 wait time  this customer reached the front line at 126.17
+Customer 18 finished Checkout at 131.18 in Lane 5 this customer experienced 4.36 wait time  this customer reached the front line at 128.98
+Customer 390 Arrived at 131.22
+Customer 23 Finished shopping at 131.31
+Customer 23 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 215 Finished shopping at 131.61
+Customer 215 has 12 or less items choose Lane 6 Number of customers already in line: 3
+Customer 399 Finished shopping at 131.71
+Customer 399 has 12 or less items choose Lane 5 Number of customers already in line: 4
+Customer 463 Finished shopping at 132.5
+Customer 463 has more than 12 items choose Lane 2 Number of customers already in line: 6
+Customer 142 finished Checkout at 132.54 in Lane 1 this customer experienced 17.64 wait time  this customer reached the front line at 127.89
+Customer 477 finished Checkout at 132.78 in Lane 5 this customer experienced 5.02 wait time  this customer reached the front line at 131.18
+Customer 283 Arrived at 132.84
+Customer 449 finished Checkout at 132.92 in Lane 6 this customer experienced 3.62 wait time  this customer reached the front line at 131.12
+Customer 263 Finished shopping at 133.17
+Customer 263 has more than 12 items choose Lane 1 Number of customers already in line: 6
+Customer 236 Arrived at 133.21
+Customer 60 finished Checkout at 133.34 in Lane 4 this customer experienced 16.68 wait time  this customer reached the front line at 130.39
+Customer 233 Finished shopping at 133.55
+Customer 233 has 12 or less items choose Lane 6 Number of customers already in line: 3
+Customer 48 Finished shopping at 134.1
+Customer 48 has 12 or less items choose Lane 5 Number of customers already in line: 4
+Customer 127 finished Checkout at 134.42 in Lane 6 this customer experienced 4.49 wait time  this customer reached the front line at 132.92
+Customer 308 Arrived at 134.52
+Customer 478 Arrived at 134.54
+Customer 7 finished Checkout at 134.54 in Lane 3 this customer experienced 16.14 wait time  this customer reached the front line at 130.74
+Customer 157 Arrived at 134.63
+Customer 257 finished Checkout at 134.68 in Lane 5 this customer experienced 5.43 wait time  this customer reached the front line at 132.78
+Customer 346 finished Checkout at 134.71 in Lane 0 this customer experienced 19.89 wait time  this customer reached the front line at 129.71
+Customer 405 Arrived at 134.73
+Customer 236 Finished shopping at 134.77
+Customer 236 has 12 or less items choose Lane 6 Number of customers already in line: 3
+Customer 313 finished Checkout at 135.02 in Lane 2 this customer experienced 21.84 wait time  this customer reached the front line at 131.17
+Customer 387 finished Checkout at 135.24 in Lane 1 this customer experienced 16.72 wait time  this customer reached the front line at 132.54
+Customer 33 Finished shopping at 135.24
+Customer 33 has more than 12 items choose Lane 0 Number of customers already in line: 6
+Customer 200 Finished shopping at 135.28
+Customer 200 has more than 12 items choose Lane 1 Number of customers already in line: 6
+Customer 374 Arrived at 135.46
+Customer 213 finished Checkout at 135.82 in Lane 6 this customer experienced 5.6 wait time  this customer reached the front line at 134.42
+Customer 271 Finished shopping at 135.9
+Customer 271 has more than 12 items choose Lane 2 Number of customers already in line: 6
+Customer 92 Arrived at 136.04
+Customer 444 finished Checkout at 136.14 in Lane 4 this customer experienced 18.7 wait time  this customer reached the front line at 133.34
+Customer 187 Arrived at 136.79
+Customer 302 finished Checkout at 136.88 in Lane 5 this customer experienced 6.67 wait time  this customer reached the front line at 134.68
+Customer 113 Arrived at 137.05
+Customer 334 finished Checkout at 137.36 in Lane 0 this customer experienced 24.35 wait time  this customer reached the front line at 134.71
+Customer 157 Finished shopping at 137.37
+Customer 157 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 215 finished Checkout at 137.62 in Lane 6 this customer experienced 4.21 wait time  this customer reached the front line at 135.82
+Customer 191 Arrived at 137.66
+Customer 401 Arrived at 137.73
+Customer 64 Arrived at 138.05
+Customer 113 Finished shopping at 138.13
+Customer 113 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 23 finished Checkout at 138.18 in Lane 5 this customer experienced 5.57 wait time  this customer reached the front line at 136.88
+Customer 152 Finished shopping at 138.25
+Customer 152 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 260 Arrived at 138.38
+Customer 424 Arrived at 138.45
+Customer 29 Arrived at 138.63
+Customer 295 Finished shopping at 138.76
+Customer 295 has more than 12 items choose Lane 4 Number of customers already in line: 5
+Customer 98 finished Checkout at 138.84 in Lane 3 this customer experienced 15.73 wait time  this customer reached the front line at 134.54
+Customer 53 Arrived at 139.05
+Customer 424 Finished shopping at 139.06
+Customer 424 has 12 or less items choose Lane 6 Number of customers already in line: 3
+Customer 261 Arrived at 139.23
+Customer 399 finished Checkout at 139.48 in Lane 5 this customer experienced 6.47 wait time  this customer reached the front line at 138.18
+Customer 243 finished Checkout at 139.52 in Lane 2 this customer experienced 21.73 wait time  this customer reached the front line at 135.02
+Customer 233 finished Checkout at 139.52 in Lane 6 this customer experienced 4.07 wait time  this customer reached the front line at 137.62
+Customer 474 finished Checkout at 139.79 in Lane 1 this customer experienced 18.57 wait time  this customer reached the front line at 135.24
+Customer 224 Arrived at 139.88
+Customer 294 Finished shopping at 139.97
+Customer 294 has more than 12 items choose Lane 3 Number of customers already in line: 5
+Customer 149 Arrived at 140.04
+Customer 356 Arrived at 140.16
+Customer 255 finished Checkout at 140.24 in Lane 4 this customer experienced 16.26 wait time  this customer reached the front line at 136.14
+Customer 280 Arrived at 140.55
+Customer 445 Arrived at 140.66
+Customer 236 finished Checkout at 140.72 in Lane 6 this customer experienced 4.75 wait time  this customer reached the front line at 139.52
+Customer 153 Arrived at 140.96
+Customer 101 Finished shopping at 141.06
+Customer 101 has more than 12 items choose Lane 4 Number of customers already in line: 5
+Customer 365 Finished shopping at 141.38
+Customer 365 has more than 12 items choose Lane 0 Number of customers already in line: 6
+Customer 48 finished Checkout at 141.48 in Lane 5 this customer experienced 5.38 wait time  this customer reached the front line at 139.48
+Customer 150 Arrived at 141.68
+Customer 117 Finished shopping at 141.72
+Customer 117 has more than 12 items choose Lane 1 Number of customers already in line: 6
+Customer 56 Finished shopping at 141.8
+Customer 56 has more than 12 items choose Lane 2 Number of customers already in line: 6
+Customer 113 finished Checkout at 141.92 in Lane 6 this customer experienced 2.59 wait time  this customer reached the front line at 140.72
+Customer 69 Arrived at 142.04
+Customer 167 Finished shopping at 142.08
+Customer 167 has more than 12 items choose Lane 3 Number of customers already in line: 6
+Customer 279 finished Checkout at 142.11 in Lane 0 this customer experienced 21.48 wait time  this customer reached the front line at 137.36
+Customer 61 Arrived at 142.3
+Customer 112 finished Checkout at 142.37 in Lane 2 this customer experienced 22.77 wait time  this customer reached the front line at 139.52
+Customer 159 Finished shopping at 142.55
+Customer 159 has more than 12 items choose Lane 0 Number of customers already in line: 6
+Customer 157 finished Checkout at 142.68 in Lane 5 this customer experienced 4.11 wait time  this customer reached the front line at 141.48
+Customer 424 finished Checkout at 143.02 in Lane 6 this customer experienced 2.86 wait time  this customer reached the front line at 141.92
+Customer 94 Arrived at 143.14
+Customer 440 Finished shopping at 143.2
+Customer 440 has more than 12 items choose Lane 2 Number of customers already in line: 6
+Customer 168 finished Checkout at 143.34 in Lane 3 this customer experienced 18.26 wait time  this customer reached the front line at 138.84
+Customer 182 Arrived at 143.39
+Customer 423 Arrived at 143.46
+Customer 345 finished Checkout at 143.79 in Lane 1 this customer experienced 19.79 wait time  this customer reached the front line at 139.79
+Customer 201 Arrived at 143.87
+Customer 152 finished Checkout at 144.38 in Lane 5 this customer experienced 4.43 wait time  this customer reached the front line at 142.68
+Customer 453 Arrived at 144.66
+Customer 495 Arrived at 144.73
+Customer 73 finished Checkout at 144.74 in Lane 4 this customer experienced 19.36 wait time  this customer reached the front line at 140.24
+Customer 86 finished Checkout at 145.02 in Lane 2 this customer experienced 21.66 wait time  this customer reached the front line at 142.37
+Customer 462 Finished shopping at 145.05
+Customer 462 has more than 12 items choose Lane 4 Number of customers already in line: 5
+Customer 341 Finished shopping at 145.09
+Customer 341 has more than 12 items choose Lane 1 Number of customers already in line: 6
+Customer 489 Arrived at 145.46
+Customer 405 Finished shopping at 145.53
+Customer 405 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 414 Finished shopping at 145.65
+Customer 414 has more than 12 items choose Lane 2 Number of customers already in line: 6
+Customer 198 Arrived at 146.28
+Customer 173 finished Checkout at 146.31 in Lane 0 this customer experienced 22.17 wait time  this customer reached the front line at 142.11
+Customer 104 Arrived at 146.39
+Customer 480 finished Checkout at 146.44 in Lane 1 this customer experienced 19.95 wait time  this customer reached the front line at 143.79
+Customer 29 Finished shopping at 146.47
+Customer 29 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 497 finished Checkout at 146.49 in Lane 3 this customer experienced 22.57 wait time  this customer reached the front line at 143.34
+Customer 68 Arrived at 146.55
+Customer 374 Finished shopping at 146.59
+Customer 374 has more than 12 items choose Lane 3 Number of customers already in line: 5
+Customer 66 Arrived at 146.66
+Customer 280 Finished shopping at 147.03
+Customer 280 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 371 Finished shopping at 147.04
+Customer 371 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 46 Finished shopping at 147.06
+Customer 46 has more than 12 items choose Lane 0 Number of customers already in line: 6
+Customer 69 Finished shopping at 147.2
+Customer 69 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 405 finished Checkout at 147.53 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 145.53
+Customer 258 Arrived at 147.66
+Customer 211 Arrived at 148.05
+Customer 202 Arrived at 148.25
+Customer 29 finished Checkout at 148.27 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 146.47
+Customer 329 Arrived at 148.47
+Customer 154 Arrived at 148.61
+Customer 469 Arrived at 148.7
+Customer 203 finished Checkout at 149.09 in Lane 4 this customer experienced 18.96 wait time  this customer reached the front line at 144.74
+Customer 280 finished Checkout at 149.13 in Lane 5 this customer experienced 0.5 wait time  this customer reached the front line at 147.53
+Customer 162 finished Checkout at 149.42 in Lane 2 this customer experienced 18.85 wait time  this customer reached the front line at 145.02
+Customer 471 finished Checkout at 149.44 in Lane 3 this customer experienced 18.16 wait time  this customer reached the front line at 146.49
+Customer 145 Arrived at 149.69
+Customer 193 Arrived at 149.73
+Customer 382 finished Checkout at 149.81 in Lane 0 this customer experienced 22.63 wait time  this customer reached the front line at 146.31
+Customer 403 Arrived at 149.87
+Customer 339 Arrived at 150.05
+Customer 336 finished Checkout at 150.29 in Lane 1 this customer experienced 20.01 wait time  this customer reached the front line at 146.44
+Customer 63 Finished shopping at 150.3
+Customer 63 has more than 12 items choose Lane 1 Number of customers already in line: 5
+Customer 402 Finished shopping at 150.31
+Customer 402 has more than 12 items choose Lane 3 Number of customers already in line: 5
+Customer 163 Arrived at 150.38
+Customer 493 Arrived at 150.46
+Customer 371 finished Checkout at 150.47 in Lane 6 this customer experienced 1.23 wait time  this customer reached the front line at 148.27
+Customer 320 Arrived at 150.48
+Customer 116 Finished shopping at 150.51
+Customer 116 has more than 12 items choose Lane 4 Number of customers already in line: 5
+Customer 69 finished Checkout at 150.53 in Lane 5 this customer experienced 1.93 wait time  this customer reached the front line at 149.13
+Customer 191 Finished shopping at 150.8
+Customer 191 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 111 Arrived at 150.98
+Customer 337 Finished shopping at 151.06
+Customer 337 has more than 12 items choose Lane 0 Number of customers already in line: 6
+Customer 317 Arrived at 151.14
+Customer 416 Arrived at 151.29
+Customer 43 Arrived at 151.34
+Customer 479 Arrived at 151.38
+Customer 496 Arrived at 151.53
+Customer 25 Arrived at 151.79
+Customer 64 Finished shopping at 151.97
+Customer 64 has more than 12 items choose Lane 1 Number of customers already in line: 6
+Customer 266 Arrived at 152.0
+Customer 455 Arrived at 152.13
+Customer 143 Arrived at 152.19
+Customer 153 Finished shopping at 152.32
+Customer 153 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 110 finished Checkout at 152.39 in Lane 3 this customer experienced 20.18 wait time  this customer reached the front line at 149.44
+Customer 416 Finished shopping at 152.49
+Customer 416 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 166 Finished shopping at 152.51
+Customer 166 has more than 12 items choose Lane 3 Number of customers already in line: 5
+Customer 49 Finished shopping at 152.54
+Customer 49 has more than 12 items choose Lane 2 Number of customers already in line: 6
+Customer 379 Arrived at 152.57
+Customer 109 Finished shopping at 152.61
+Customer 109 has more than 12 items choose Lane 3 Number of customers already in line: 6
+Customer 191 finished Checkout at 152.7 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 150.8
+Customer 34 Arrived at 152.71
+Customer 31 Arrived at 153.05
+Customer 377 finished Checkout at 153.14 in Lane 4 this customer experienced 18.6 wait time  this customer reached the front line at 149.09
+Customer 489 Finished shopping at 153.16
+Customer 489 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 181 Finished shopping at 153.24
+Customer 181 has more than 12 items choose Lane 4 Number of customers already in line: 5
+Customer 204 finished Checkout at 153.27 in Lane 2 this customer experienced 20.64 wait time  this customer reached the front line at 149.42
+Customer 264 finished Checkout at 153.51 in Lane 0 this customer experienced 23.61 wait time  this customer reached the front line at 149.81
+Customer 303 Arrived at 153.87
+Customer 416 finished Checkout at 153.9 in Lane 5 this customer experienced 0.21 wait time  this customer reached the front line at 152.7
+Customer 354 Arrived at 153.93
+Customer 248 finished Checkout at 154.04 in Lane 1 this customer experienced 21.51 wait time  this customer reached the front line at 150.29
+Customer 153 finished Checkout at 154.12 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 152.32
+Customer 317 Finished shopping at 154.14
+Customer 317 has 12 or less items choose Lane 6 Number of customers already in line: 0
+Customer 20 Finished shopping at 154.15
+Customer 20 has more than 12 items choose Lane 0 Number of customers already in line: 6
+Customer 496 Finished shopping at 154.26
+Customer 496 has 12 or less items choose Lane 5 Number of customers already in line: 1
+Customer 344 Arrived at 154.43
+Customer 111 Finished shopping at 154.82
+Customer 111 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 351 Arrived at 154.96
+Customer 479 Finished shopping at 155.1
+Customer 479 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 333 Arrived at 155.39
+Customer 105 Arrived at 155.43
+Customer 317 finished Checkout at 155.44 in Lane 6 this customer experienced 0.0 wait time  this customer reached the front line at 154.14
+Customer 68 Finished shopping at 155.65
+Customer 68 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 145 Finished shopping at 155.71
+Customer 145 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 102 Arrived at 155.78
+Customer 489 finished Checkout at 155.9 in Lane 5 this customer experienced 0.74 wait time  this customer reached the front line at 153.9
+Customer 52 finished Checkout at 156.09 in Lane 4 this customer experienced 22.4 wait time  this customer reached the front line at 153.14
+Customer 297 finished Checkout at 156.39 in Lane 3 this customer experienced 21.34 wait time  this customer reached the front line at 152.39
+Customer 193 Finished shopping at 156.45
+Customer 193 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 463 finished Checkout at 156.82 in Lane 2 this customer experienced 20.77 wait time  this customer reached the front line at 153.27
+Customer 111 finished Checkout at 157.04 in Lane 6 this customer experienced 0.62 wait time  this customer reached the front line at 155.44
+Customer 322 Finished shopping at 157.09
+Customer 322 has more than 12 items choose Lane 2 Number of customers already in line: 5
+Customer 496 finished Checkout at 157.2 in Lane 5 this customer experienced 1.64 wait time  this customer reached the front line at 155.9
+Customer 498 Finished shopping at 157.79
+Customer 498 has more than 12 items choose Lane 4 Number of customers already in line: 5
+Customer 266 Finished shopping at 157.85
+Customer 266 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 384 Arrived at 157.86
+Customer 238 Arrived at 157.94
+Customer 263 finished Checkout at 158.14 in Lane 1 this customer experienced 20.87 wait time  this customer reached the front line at 154.04
+Customer 9 finished Checkout at 158.16 in Lane 0 this customer experienced 23.65 wait time  this customer reached the front line at 153.51
+Customer 403 Finished shopping at 158.51
+Customer 403 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 479 finished Checkout at 158.6 in Lane 5 this customer experienced 2.1 wait time  this customer reached the front line at 157.2
+Customer 25 Finished shopping at 158.67
+Customer 25 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 68 finished Checkout at 158.74 in Lane 6 this customer experienced 1.39 wait time  this customer reached the front line at 157.04
+Customer 295 finished Checkout at 158.74 in Lane 4 this customer experienced 17.33 wait time  this customer reached the front line at 156.09
+Customer 409 Finished shopping at 159.05
+Customer 409 has more than 12 items choose Lane 1 Number of customers already in line: 5
+Customer 437 Finished shopping at 159.1
+Customer 437 has more than 12 items choose Lane 4 Number of customers already in line: 5
+Customer 465 Arrived at 159.11
+Customer 320 Finished shopping at 159.12
+Customer 320 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 132 Finished shopping at 159.29
+Customer 132 has more than 12 items choose Lane 0 Number of customers already in line: 6
+Customer 460 Arrived at 159.33
+Customer 74 Finished shopping at 159.55
+Customer 74 has more than 12 items choose Lane 1 Number of customers already in line: 6
+Customer 92 Finished shopping at 159.88
+Customer 92 has more than 12 items choose Lane 2 Number of customers already in line: 6
+Customer 5 Finished shopping at 160.13
+Customer 5 has more than 12 items choose Lane 3 Number of customers already in line: 6
+Customer 44 Arrived at 160.17
+Customer 193 finished Checkout at 160.2 in Lane 5 this customer experienced 2.15 wait time  this customer reached the front line at 158.6
+Customer 450 Finished shopping at 160.22
+Customer 450 has more than 12 items choose Lane 4 Number of customers already in line: 6
+Customer 294 finished Checkout at 160.29 in Lane 3 this customer experienced 16.42 wait time  this customer reached the front line at 156.39
+Customer 145 finished Checkout at 160.44 in Lane 6 this customer experienced 3.03 wait time  this customer reached the front line at 158.74
+Customer 208 Arrived at 160.53
+Customer 379 Finished shopping at 160.55
+Customer 379 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 261 Finished shopping at 160.68
+Customer 261 has more than 12 items choose Lane 3 Number of customers already in line: 6
+Customer 30 Arrived at 160.82
+Customer 137 Arrived at 161.09
+Customer 271 finished Checkout at 161.27 in Lane 2 this customer experienced 20.92 wait time  this customer reached the front line at 156.82
+Customer 31 Finished shopping at 161.59
+Customer 31 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 266 finished Checkout at 161.7 in Lane 5 this customer experienced 2.35 wait time  this customer reached the front line at 160.2
+Customer 469 Finished shopping at 161.72
+Customer 469 has more than 12 items choose Lane 2 Number of customers already in line: 6
+Customer 66 Finished shopping at 162.02
+Customer 66 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 95 Arrived at 162.08
+Customer 372 Finished shopping at 162.12
+Customer 372 has more than 12 items choose Lane 0 Number of customers already in line: 7
+Customer 406 Arrived at 162.15
+Customer 403 finished Checkout at 162.24 in Lane 6 this customer experienced 1.93 wait time  this customer reached the front line at 160.44
+Customer 190 Arrived at 162.3
+Customer 32 Arrived at 162.38
+Customer 33 finished Checkout at 162.61 in Lane 0 this customer experienced 22.92 wait time  this customer reached the front line at 158.16
+Customer 101 finished Checkout at 162.69 in Lane 4 this customer experienced 17.68 wait time  this customer reached the front line at 158.74
+Customer 200 finished Checkout at 162.79 in Lane 1 this customer experienced 22.86 wait time  this customer reached the front line at 158.14
+Customer 338 Arrived at 163.23
+Customer 231 Arrived at 163.34
+Customer 25 finished Checkout at 163.5 in Lane 5 this customer experienced 3.03 wait time  this customer reached the front line at 161.7
+Customer 493 Finished shopping at 163.51
+Customer 493 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 30 Finished shopping at 163.67
+Customer 30 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 426 Arrived at 163.7
+Customer 408 Arrived at 163.82
+Customer 384 Finished shopping at 164.26
+Customer 384 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 404 Arrived at 164.4
+Customer 55 Arrived at 164.42
+Customer 320 finished Checkout at 164.44 in Lane 6 this customer experienced 3.12 wait time  this customer reached the front line at 162.24
+Customer 167 finished Checkout at 164.99 in Lane 3 this customer experienced 18.21 wait time  this customer reached the front line at 160.29
+Customer 134 Arrived at 165.02
+Customer 278 Arrived at 165.09
+Customer 379 finished Checkout at 165.1 in Lane 5 this customer experienced 2.95 wait time  this customer reached the front line at 163.5
+Customer 491 Arrived at 165.18
+Customer 472 Arrived at 165.36
+Customer 26 Arrived at 165.42
+Customer 78 Finished shopping at 165.65
+Customer 78 has more than 12 items choose Lane 1 Number of customers already in line: 6
+Customer 465 Finished shopping at 165.71
+Customer 465 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 180 Arrived at 165.73
+Customer 354 Finished shopping at 165.81
+Customer 354 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 56 finished Checkout at 165.82 in Lane 2 this customer experienced 19.47 wait time  this customer reached the front line at 161.27
+Customer 76 Arrived at 165.83
+Customer 267 Arrived at 165.96
+Customer 137 Finished shopping at 165.97
+Customer 137 has 12 or less items choose Lane 6 Number of customers already in line: 3
+Customer 31 finished Checkout at 166.14 in Lane 6 this customer experienced 2.85 wait time  this customer reached the front line at 164.44
+Customer 351 Finished shopping at 166.16
+Customer 140 Arrived at 166.16
+Customer 351 has more than 12 items choose Lane 2 Number of customers already in line: 6
+Customer 227 Arrived at 166.28
+Customer 462 finished Checkout at 166.39 in Lane 4 this customer experienced 17.64 wait time  this customer reached the front line at 162.69
+Customer 179 Arrived at 166.41
+Customer 445 Finished shopping at 166.46
+Customer 445 has more than 12 items choose Lane 4 Number of customers already in line: 5
+Customer 117 finished Checkout at 166.94 in Lane 1 this customer experienced 21.07 wait time  this customer reached the front line at 162.79
+Customer 228 Finished shopping at 167.02
+Customer 228 has more than 12 items choose Lane 1 Number of customers already in line: 6
+Customer 365 finished Checkout at 167.06 in Lane 0 this customer experienced 21.23 wait time  this customer reached the front line at 162.61
+Customer 268 Arrived at 167.12
+Customer 283 Finished shopping at 167.14
+Customer 283 has more than 12 items choose Lane 0 Number of customers already in line: 6
+Customer 180 Finished shopping at 167.23
+Customer 180 has 12 or less items choose Lane 6 Number of customers already in line: 3
+Customer 119 Arrived at 167.25
+Customer 66 finished Checkout at 167.3 in Lane 5 this customer experienced 3.08 wait time  this customer reached the front line at 165.1
+Customer 30 finished Checkout at 167.44 in Lane 6 this customer experienced 2.47 wait time  this customer reached the front line at 166.14
+Customer 143 Finished shopping at 167.49
+Customer 143 has more than 12 items choose Lane 3 Number of customers already in line: 6
+Customer 426 Finished shopping at 167.7
+Customer 426 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 278 Finished shopping at 167.83
+Customer 278 has 12 or less items choose Lane 6 Number of customers already in line: 3
+Customer 51 Finished shopping at 167.9
+Customer 51 has more than 12 items choose Lane 4 Number of customers already in line: 6
+Customer 481 Arrived at 167.93
+Customer 357 Arrived at 168.0
+Customer 187 Finished shopping at 168.04
+Customer 187 has more than 12 items choose Lane 0 Number of customers already in line: 7
+Customer 374 finished Checkout at 168.04 in Lane 3 this customer experienced 18.4 wait time  this customer reached the front line at 164.99
+Customer 88 Arrived at 168.41
+Customer 241 Finished shopping at 168.42
+Customer 241 has more than 12 items choose Lane 3 Number of customers already in line: 6
+Customer 455 Finished shopping at 168.69
+Customer 455 has 12 or less items choose Lane 5 Number of customers already in line: 4
+Customer 401 Finished shopping at 168.81
+Customer 401 has more than 12 items choose Lane 1 Number of customers already in line: 7
+Customer 411 Arrived at 168.96
+Customer 26 Finished shopping at 169.02
+Customer 26 has 12 or less items choose Lane 6 Number of customers already in line: 4
+Customer 202 Finished shopping at 169.05
+Customer 202 has more than 12 items choose Lane 2 Number of customers already in line: 7
+Customer 123 Arrived at 169.2
+Customer 493 finished Checkout at 169.2 in Lane 5 this customer experienced 3.79 wait time  this customer reached the front line at 167.3
+Customer 252 Finished shopping at 169.24
+Customer 252 has more than 12 items choose Lane 3 Number of customers already in line: 7
+Customer 156 Finished shopping at 169.33
+Customer 156 has more than 12 items choose Lane 4 Number of customers already in line: 7
+Customer 224 Finished shopping at 169.36
+Customer 224 has more than 12 items choose Lane 0 Number of customers already in line: 8
+Customer 440 finished Checkout at 169.42 in Lane 2 this customer experienced 22.62 wait time  this customer reached the front line at 165.82
+Customer 388 Arrived at 169.44
+Customer 198 Finished shopping at 169.48
+Customer 198 has more than 12 items choose Lane 2 Number of customers already in line: 7
+Customer 238 Finished shopping at 169.49
+Customer 238 has 12 or less items choose Lane 5 Number of customers already in line: 4
+Customer 487 Arrived at 169.61
+Customer 218 Arrived at 169.62
+Customer 465 finished Checkout at 169.64 in Lane 6 this customer experienced 1.73 wait time  this customer reached the front line at 167.44
+Customer 341 finished Checkout at 169.64 in Lane 1 this customer experienced 21.85 wait time  this customer reached the front line at 166.94
+Customer 235 Finished shopping at 169.69
+Customer 235 has more than 12 items choose Lane 1 Number of customers already in line: 7
+Customer 205 Arrived at 169.86
+Customer 190 Finished shopping at 170.04
+Customer 190 has 12 or less items choose Lane 6 Number of customers already in line: 4
+Customer 159 finished Checkout at 170.06 in Lane 0 this customer experienced 24.51 wait time  this customer reached the front line at 167.06
+Customer 442 Finished shopping at 170.22
+Customer 442 has more than 12 items choose Lane 0 Number of customers already in line: 8
+Customer 154 Finished shopping at 170.39
+Customer 154 has more than 12 items choose Lane 1 Number of customers already in line: 8
+Customer 384 finished Checkout at 170.7 in Lane 5 this customer experienced 4.94 wait time  this customer reached the front line at 169.2
+Customer 80 Arrived at 170.84
+Customer 137 finished Checkout at 171.04 in Lane 6 this customer experienced 3.67 wait time  this customer reached the front line at 169.64
+Customer 158 Arrived at 171.26
+Customer 116 finished Checkout at 171.29 in Lane 4 this customer experienced 15.88 wait time  this customer reached the front line at 166.39
+Customer 314 Arrived at 171.33
+Customer 103 Finished shopping at 171.55
+Customer 103 has more than 12 items choose Lane 4 Number of customers already in line: 7
+Customer 402 finished Checkout at 171.94 in Lane 3 this customer experienced 17.73 wait time  this customer reached the front line at 168.04
+Customer 39 Arrived at 171.98
+Customer 182 Finished shopping at 171.99
+Customer 182 has more than 12 items choose Lane 3 Number of customers already in line: 7
+Customer 245 Arrived at 172.11
+Customer 180 finished Checkout at 172.14 in Lane 6 this customer experienced 3.81 wait time  this customer reached the front line at 171.04
+Customer 329 Finished shopping at 172.17
+Customer 329 has more than 12 items choose Lane 2 Number of customers already in line: 8
+Customer 367 Arrived at 172.25
+Customer 456 Arrived at 172.39
+Customer 453 Finished shopping at 172.71
+Customer 453 has more than 12 items choose Lane 3 Number of customers already in line: 8
+Customer 77 Arrived at 172.77
+Customer 354 finished Checkout at 172.8 in Lane 5 this customer experienced 4.89 wait time  this customer reached the front line at 170.7
+Customer 35 Arrived at 172.91
+Customer 278 finished Checkout at 173.34 in Lane 6 this customer experienced 4.31 wait time  this customer reached the front line at 172.14
+Customer 218 Finished shopping at 173.82
+Customer 218 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 163 Finished shopping at 174.04
+Customer 163 has more than 12 items choose Lane 4 Number of customers already in line: 8
+Customer 390 Finished shopping at 174.12
+Customer 390 has more than 12 items choose Lane 0 Number of customers already in line: 9
+Customer 426 finished Checkout at 174.2 in Lane 5 this customer experienced 5.1 wait time  this customer reached the front line at 172.8
+Customer 414 finished Checkout at 174.22 in Lane 2 this customer experienced 23.77 wait time  this customer reached the front line at 169.42
+Customer 63 finished Checkout at 174.24 in Lane 1 this customer experienced 19.34 wait time  this customer reached the front line at 169.64
+Customer 46 finished Checkout at 174.26 in Lane 0 this customer experienced 23.0 wait time  this customer reached the front line at 170.06
+Customer 26 finished Checkout at 174.74 in Lane 6 this customer experienced 4.32 wait time  this customer reached the front line at 173.34
+Customer 61 Finished shopping at 175.06
+Customer 391 Finished shopping at 175.06
+Customer 61 has more than 12 items choose Lane 1 Number of customers already in line: 8
+Customer 391 has more than 12 items choose Lane 2 Number of customers already in line: 8
+Customer 411 Finished shopping at 175.28
+Customer 411 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 53 Finished shopping at 175.77
+Customer 53 has more than 12 items choose Lane 0 Number of customers already in line: 9
+Customer 181 finished Checkout at 175.84 in Lane 4 this customer experienced 18.05 wait time  this customer reached the front line at 171.29
+Customer 460 Finished shopping at 175.89
+Customer 460 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 35 Finished shopping at 176.03
+Customer 35 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 166 finished Checkout at 176.04 in Lane 3 this customer experienced 19.43 wait time  this customer reached the front line at 171.94
+Customer 190 finished Checkout at 176.34 in Lane 6 this customer experienced 4.7 wait time  this customer reached the front line at 174.74
+Customer 455 finished Checkout at 176.4 in Lane 5 this customer experienced 5.51 wait time  this customer reached the front line at 174.2
+Customer 134 Finished shopping at 176.86
+Customer 134 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 64 finished Checkout at 177.04 in Lane 1 this customer experienced 22.27 wait time  this customer reached the front line at 174.24
+Customer 208 Finished shopping at 177.32
+Customer 208 has more than 12 items choose Lane 1 Number of customers already in line: 8
+Customer 95 Finished shopping at 177.42
+Customer 95 has more than 12 items choose Lane 3 Number of customers already in line: 8
+Customer 211 Finished shopping at 177.55
+Customer 211 has more than 12 items choose Lane 4 Number of customers already in line: 8
+Customer 99 Finished shopping at 177.88
+Customer 99 has more than 12 items choose Lane 1 Number of customers already in line: 9
+Customer 218 finished Checkout at 177.94 in Lane 6 this customer experienced 2.52 wait time  this customer reached the front line at 176.34
+Customer 49 finished Checkout at 178.12 in Lane 2 this customer experienced 21.68 wait time  this customer reached the front line at 174.22
+Customer 104 Finished shopping at 178.13
+Customer 104 has more than 12 items choose Lane 2 Number of customers already in line: 8
+Customer 408 Finished shopping at 178.22
+Customer 408 has 12 or less items choose Lane 6 Number of customers already in line: 2
+Customer 267 Finished shopping at 178.35
+Customer 267 has more than 12 items choose Lane 2 Number of customers already in line: 9
+Customer 76 Finished shopping at 178.43
+Customer 76 has 12 or less items choose Lane 5 Number of customers already in line: 3
+Customer 238 finished Checkout at 178.5 in Lane 5 this customer experienced 6.91 wait time  this customer reached the front line at 176.4
+Customer 258 Finished shopping at 178.74
+Customer 258 has more than 12 items choose Lane 3 Number of customers already in line: 9
+Customer 337 finished Checkout at 179.06 in Lane 0 this customer experienced 23.2 wait time  this customer reached the front line at 174.26
+Customer 435 Finished shopping at 179.24
+Customer 435 has more than 12 items choose Lane 0 Number of customers already in line: 9
+Customer 59 Finished shopping at 179.45
+Customer 59 has more than 12 items choose Lane 4 Number of customers already in line: 9
+Customer 498 finished Checkout at 180.04 in Lane 4 this customer experienced 18.05 wait time  this customer reached the front line at 175.84
+Customer 17 Finished shopping at 180.05
+Customer 17 has more than 12 items choose Lane 4 Number of customers already in line: 9
+Customer 460 finished Checkout at 180.14 in Lane 6 this customer experienced 2.05 wait time  this customer reached the front line at 177.94
+Customer 411 finished Checkout at 180.3 in Lane 5 this customer experienced 3.22 wait time  this customer reached the front line at 178.5
+Customer 109 finished Checkout at 180.34 in Lane 3 this customer experienced 23.43 wait time  this customer reached the front line at 176.04
+Customer 406 Finished shopping at 180.63
+Customer 406 has more than 12 items choose Lane 3 Number of customers already in line: 9
+Customer 388 Finished shopping at 181.14
+Customer 388 has 12 or less items choose Lane 5 Number of customers already in line: 2
+Customer 35 finished Checkout at 181.9 in Lane 5 this customer experienced 4.27 wait time  this customer reached the front line at 180.3
+Customer 134 finished Checkout at 181.94 in Lane 6 this customer experienced 3.28 wait time  this customer reached the front line at 180.14
+Customer 409 finished Checkout at 182.04 in Lane 1 this customer experienced 17.99 wait time  this customer reached the front line at 177.04
+Customer 123 Finished shopping at 182.3
+Customer 123 has 12 or less items choose Lane 6 Number of customers already in line: 1
+Customer 322 finished Checkout at 182.47 in Lane 2 this customer experienced 21.03 wait time  this customer reached the front line at 178.12
+Customer 419 Finished shopping at 183.2
+Customer 419 has more than 12 items choose Lane 1 Number of customers already in line: 9
+Customer 333 Finished shopping at 183.23
+Customer 333 has more than 12 items choose Lane 2 Number of customers already in line: 9
+Customer 223 Finished shopping at 183.47
+Customer 223 has more than 12 items choose Lane 0 Number of customers already in line: 10
+Customer 105 Finished shopping at 183.52
+Customer 105 has more than 12 items choose Lane 1 Number of customers already in line: 10
+Customer 20 finished Checkout at 183.56 in Lane 0 this customer experienced 24.91 wait time  this customer reached the front line at 179.06
+Customer 260 Finished shopping at 183.97
+Customer 260 has more than 12 items choose Lane 0 Number of customers already in line: 10
+Customer 76 finished Checkout at 184.1 in Lane 5 this customer experienced 3.47 wait time  this customer reached the front line at 181.9
+Customer 408 finished Checkout at 184.14 in Lane 6 this customer experienced 3.72 wait time  this customer reached the front line at 181.94
+Customer 437 finished Checkout at 184.79 in Lane 4 this customer experienced 20.94 wait time  this customer reached the front line at 180.04
+Customer 5 finished Checkout at 184.99 in Lane 3 this customer experienced 20.21 wait time  this customer reached the front line at 180.34
+Customer 92 finished Checkout at 185.27 in Lane 2 this customer experienced 22.59 wait time  this customer reached the front line at 182.47
+Customer 367 Finished shopping at 185.37
+Customer 367 has more than 12 items choose Lane 2 Number of customers already in line: 9
+Customer 74 finished Checkout at 185.89 in Lane 1 this customer experienced 22.49 wait time  this customer reached the front line at 182.04
+Customer 388 finished Checkout at 186.1 in Lane 5 this customer experienced 2.96 wait time  this customer reached the front line at 184.1
+Customer 123 finished Checkout at 186.14 in Lane 6 this customer experienced 1.84 wait time  this customer reached the front line at 184.14
+Customer 303 Finished shopping at 186.73
+Customer 303 has more than 12 items choose Lane 3 Number of customers already in line: 9
+Customer 77 Finished shopping at 187.07
+Customer 77 has more than 12 items choose Lane 4 Number of customers already in line: 9
+Customer 352 Finished shopping at 187.28
+Customer 352 has more than 12 items choose Lane 1 Number of customers already in line: 10
+Customer 132 finished Checkout at 187.41 in Lane 0 this customer experienced 24.27 wait time  this customer reached the front line at 183.56
+Customer 495 Finished shopping at 188.23
+Customer 495 has more than 12 items choose Lane 0 Number of customers already in line: 10
+Customer 469 finished Checkout at 188.32 in Lane 2 this customer experienced 23.55 wait time  this customer reached the front line at 185.27
+Customer 43 Finished shopping at 188.44
+Customer 43 has more than 12 items choose Lane 2 Number of customers already in line: 9
+Customer 261 finished Checkout at 188.64 in Lane 3 this customer experienced 24.31 wait time  this customer reached the front line at 184.99
+Customer 456 Finished shopping at 188.83
+Customer 456 has 12 or less items choose Lane 5 Number of customers already in line: 0
+Customer 450 finished Checkout at 188.99 in Lane 4 this customer experienced 24.57 wait time  this customer reached the front line at 184.79
+Customer 78 finished Checkout at 189.54 in Lane 1 this customer experienced 20.24 wait time  this customer reached the front line at 185.89
+Customer 404 Finished shopping at 189.63
+Customer 404 has more than 12 items choose Lane 3 Number of customers already in line: 9
+Customer 201 Finished shopping at 190.27
+Customer 201 has more than 12 items choose Lane 4 Number of customers already in line: 9
+Customer 44 Finished shopping at 190.77
+Customer 44 has more than 12 items choose Lane 1 Number of customers already in line: 10
+Customer 456 finished Checkout at 191.03 in Lane 5 this customer experienced 0.0 wait time  this customer reached the front line at 188.83
+Customer 351 finished Checkout at 191.12 in Lane 2 this customer experienced 22.16 wait time  this customer reached the front line at 188.32
+Customer 372 finished Checkout at 191.41 in Lane 0 this customer experienced 25.29 wait time  this customer reached the front line at 187.41
+Customer 94 Finished shopping at 191.42
+Customer 94 has more than 12 items choose Lane 2 Number of customers already in line: 9
+Customer 143 finished Checkout at 192.14 in Lane 3 this customer experienced 21.15 wait time  this customer reached the front line at 188.64
+Customer 231 Finished shopping at 192.2
+Customer 231 has more than 12 items choose Lane 3 Number of customers already in line: 9
+Customer 445 finished Checkout at 193.14 in Lane 4 this customer experienced 22.53 wait time  this customer reached the front line at 188.99
+Customer 228 finished Checkout at 193.29 in Lane 1 this customer experienced 22.52 wait time  this customer reached the front line at 189.54
+Customer 202 finished Checkout at 193.92 in Lane 2 this customer experienced 22.07 wait time  this customer reached the front line at 191.12
+Customer 283 finished Checkout at 195.16 in Lane 0 this customer experienced 24.27 wait time  this customer reached the front line at 191.41
+Customer 14 Finished shopping at 195.19
+Customer 14 has more than 12 items choose Lane 0 Number of customers already in line: 9
+Customer 140 Finished shopping at 195.28
+Customer 140 has more than 12 items choose Lane 2 Number of customers already in line: 9
+Customer 344 Finished shopping at 195.35
+Customer 344 has more than 12 items choose Lane 4 Number of customers already in line: 9
+Customer 314 Finished shopping at 195.81
+Customer 314 has more than 12 items choose Lane 0 Number of customers already in line: 10
+Customer 241 finished Checkout at 196.19 in Lane 3 this customer experienced 23.72 wait time  this customer reached the front line at 192.14
+Customer 339 Finished shopping at 196.58
+Customer 339 has more than 12 items choose Lane 3 Number of customers already in line: 9
+Customer 401 finished Checkout at 197.14 in Lane 1 this customer experienced 24.48 wait time  this customer reached the front line at 193.29
+Customer 198 finished Checkout at 197.92 in Lane 2 this customer experienced 24.44 wait time  this customer reached the front line at 193.92
+Customer 51 finished Checkout at 198.09 in Lane 4 this customer experienced 25.24 wait time  this customer reached the front line at 193.14
+Customer 187 finished Checkout at 198.41 in Lane 0 this customer experienced 27.12 wait time  this customer reached the front line at 195.16
+Customer 81 Finished shopping at 198.9
+Customer 81 has more than 12 items choose Lane 1 Number of customers already in line: 9
+Customer 252 finished Checkout at 199.89 in Lane 3 this customer experienced 26.95 wait time  this customer reached the front line at 196.19
+Customer 88 Finished shopping at 200.54
+Customer 88 has more than 12 items choose Lane 2 Number of customers already in line: 9
+Customer 235 finished Checkout at 201.19 in Lane 1 this customer experienced 27.45 wait time  this customer reached the front line at 197.14
+Customer 329 finished Checkout at 201.42 in Lane 2 this customer experienced 25.75 wait time  this customer reached the front line at 197.92
+Customer 102 Finished shopping at 202.26
+Customer 102 has more than 12 items choose Lane 1 Number of customers already in line: 9
+Customer 32 Finished shopping at 202.4
+Customer 32 has more than 12 items choose Lane 2 Number of customers already in line: 9
+Customer 224 finished Checkout at 202.61 in Lane 0 this customer experienced 29.05 wait time  this customer reached the front line at 198.41
+Customer 156 finished Checkout at 202.84 in Lane 4 this customer experienced 28.76 wait time  this customer reached the front line at 198.09
+Customer 182 finished Checkout at 202.89 in Lane 3 this customer experienced 27.9 wait time  this customer reached the front line at 199.89
+Customer 34 Finished shopping at 203.17
+Customer 34 has more than 12 items choose Lane 3 Number of customers already in line: 8
+Customer 356 Finished shopping at 204.23
+Customer 356 has more than 12 items choose Lane 4 Number of customers already in line: 8
+Customer 154 finished Checkout at 204.84 in Lane 1 this customer experienced 30.8 wait time  this customer reached the front line at 201.19
+Customer 158 Finished shopping at 205.14
+Customer 158 has more than 12 items choose Lane 0 Number of customers already in line: 9
+Customer 391 finished Checkout at 205.32 in Lane 2 this customer experienced 26.36 wait time  this customer reached the front line at 201.42
+Customer 55 Finished shopping at 206.42
+Customer 55 has more than 12 items choose Lane 1 Number of customers already in line: 9
+Customer 150 Finished shopping at 206.64
+Customer 150 has more than 12 items choose Lane 2 Number of customers already in line: 9
+Customer 149 Finished shopping at 206.68
+Customer 149 has more than 12 items choose Lane 3 Number of customers already in line: 9
+Customer 103 finished Checkout at 206.69 in Lane 4 this customer experienced 31.29 wait time  this customer reached the front line at 202.84
+Customer 442 finished Checkout at 207.06 in Lane 0 this customer experienced 32.39 wait time  this customer reached the front line at 202.61
+Customer 179 Finished shopping at 207.11
+Customer 179 has more than 12 items choose Lane 4 Number of customers already in line: 8
+Customer 453 finished Checkout at 207.64 in Lane 3 this customer experienced 30.18 wait time  this customer reached the front line at 202.89
+Customer 423 Finished shopping at 208.42
+Customer 423 has more than 12 items choose Lane 0 Number of customers already in line: 9
+Customer 61 finished Checkout at 209.44 in Lane 1 this customer experienced 29.78 wait time  this customer reached the front line at 204.84
+Customer 308 Finished shopping at 209.45
+Customer 308 has more than 12 items choose Lane 1 Number of customers already in line: 9
+Customer 80 Finished shopping at 209.53
+Customer 80 has more than 12 items choose Lane 3 Number of customers already in line: 9
+Customer 104 finished Checkout at 209.62 in Lane 2 this customer experienced 27.19 wait time  this customer reached the front line at 205.32
+Customer 163 finished Checkout at 209.99 in Lane 4 this customer experienced 32.65 wait time  this customer reached the front line at 206.69
+Customer 95 finished Checkout at 210.94 in Lane 3 this customer experienced 30.22 wait time  this customer reached the front line at 207.64
+Customer 390 finished Checkout at 211.01 in Lane 0 this customer experienced 32.94 wait time  this customer reached the front line at 207.06
+Customer 119 Finished shopping at 211.14
+Customer 119 has more than 12 items choose Lane 4 Number of customers already in line: 8
+Customer 338 Finished shopping at 211.63
+Customer 338 has more than 12 items choose Lane 0 Number of customers already in line: 9
+Customer 357 Finished shopping at 212.29
+Customer 357 has more than 12 items choose Lane 2 Number of customers already in line: 9
+Customer 208 finished Checkout at 212.59 in Lane 1 this customer experienced 32.12 wait time  this customer reached the front line at 209.44
+Customer 267 finished Checkout at 212.67 in Lane 2 this customer experienced 31.27 wait time  this customer reached the front line at 209.62
+Customer 53 finished Checkout at 214.36 in Lane 0 this customer experienced 35.24 wait time  this customer reached the front line at 211.01
+Customer 258 finished Checkout at 214.79 in Lane 3 this customer experienced 32.2 wait time  this customer reached the front line at 210.94
+Customer 211 finished Checkout at 214.94 in Lane 4 this customer experienced 32.44 wait time  this customer reached the front line at 209.99
+Customer 333 finished Checkout at 215.87 in Lane 2 this customer experienced 29.44 wait time  this customer reached the front line at 212.67
+Customer 99 finished Checkout at 217.49 in Lane 1 this customer experienced 34.71 wait time  this customer reached the front line at 212.59
+Customer 39 Finished shopping at 217.88
+Customer 39 has more than 12 items choose Lane 1 Number of customers already in line: 8
+Customer 406 finished Checkout at 217.89 in Lane 3 this customer experienced 34.16 wait time  this customer reached the front line at 214.79
+Customer 478 Finished shopping at 218.33
+Customer 478 has more than 12 items choose Lane 3 Number of customers already in line: 7
+Customer 435 finished Checkout at 218.56 in Lane 0 this customer experienced 35.12 wait time  this customer reached the front line at 214.36
+Customer 367 finished Checkout at 218.67 in Lane 2 this customer experienced 30.5 wait time  this customer reached the front line at 215.87
+Customer 487 Finished shopping at 219.59
+Customer 487 has more than 12 items choose Lane 2 Number of customers already in line: 7
+Customer 491 Finished shopping at 219.78
+Customer 491 has more than 12 items choose Lane 0 Number of customers already in line: 8
+Customer 59 finished Checkout at 219.84 in Lane 4 this customer experienced 35.49 wait time  this customer reached the front line at 214.94
+Customer 303 finished Checkout at 221.44 in Lane 3 this customer experienced 31.16 wait time  this customer reached the front line at 217.89
+Customer 419 finished Checkout at 222.14 in Lane 1 this customer experienced 34.29 wait time  this customer reached the front line at 217.49
+Customer 43 finished Checkout at 223.32 in Lane 2 this customer experienced 30.23 wait time  this customer reached the front line at 218.67
+Customer 223 finished Checkout at 223.51 in Lane 0 this customer experienced 35.09 wait time  this customer reached the front line at 218.56
+Customer 481 Finished shopping at 223.55
+Customer 481 has more than 12 items choose Lane 2 Number of customers already in line: 7
+Customer 205 Finished shopping at 223.86
+Customer 205 has more than 12 items choose Lane 3 Number of customers already in line: 7
+Customer 17 finished Checkout at 224.49 in Lane 4 this customer experienced 39.79 wait time  this customer reached the front line at 219.84
+Customer 404 finished Checkout at 224.89 in Lane 3 this customer experienced 31.81 wait time  this customer reached the front line at 221.44
+Customer 105 finished Checkout at 226.79 in Lane 1 this customer experienced 38.62 wait time  this customer reached the front line at 222.14
+Customer 94 finished Checkout at 227.02 in Lane 2 this customer experienced 31.9 wait time  this customer reached the front line at 223.32
+Customer 77 finished Checkout at 227.59 in Lane 4 this customer experienced 37.42 wait time  this customer reached the front line at 224.49
+Customer 260 finished Checkout at 227.86 in Lane 0 this customer experienced 39.54 wait time  this customer reached the front line at 223.51
+Customer 231 finished Checkout at 228.19 in Lane 3 this customer experienced 32.69 wait time  this customer reached the front line at 224.89
+Customer 227 Finished shopping at 230.78
+Customer 227 has more than 12 items choose Lane 4 Number of customers already in line: 5
+Customer 352 finished Checkout at 231.04 in Lane 1 this customer experienced 39.51 wait time  this customer reached the front line at 226.79
+Customer 201 finished Checkout at 231.19 in Lane 4 this customer experienced 37.32 wait time  this customer reached the front line at 227.59
+Customer 495 finished Checkout at 231.36 in Lane 0 this customer experienced 39.63 wait time  this customer reached the front line at 227.86
+Customer 140 finished Checkout at 231.82 in Lane 2 this customer experienced 31.74 wait time  this customer reached the front line at 227.02
+Customer 339 finished Checkout at 231.84 in Lane 3 this customer experienced 31.61 wait time  this customer reached the front line at 228.19
+Customer 44 finished Checkout at 234.54 in Lane 1 this customer experienced 40.27 wait time  this customer reached the front line at 231.04
+Customer 344 finished Checkout at 235.39 in Lane 4 this customer experienced 35.84 wait time  this customer reached the front line at 231.19
+Customer 14 finished Checkout at 235.71 in Lane 0 this customer experienced 36.17 wait time  this customer reached the front line at 231.36
+Customer 88 finished Checkout at 236.37 in Lane 2 this customer experienced 31.28 wait time  this customer reached the front line at 231.82
+Customer 34 finished Checkout at 236.74 in Lane 3 this customer experienced 28.67 wait time  this customer reached the front line at 231.84
+Customer 472 Finished shopping at 238.72
+Customer 472 has more than 12 items choose Lane 3 Number of customers already in line: 4
+Customer 81 finished Checkout at 239.49 in Lane 1 this customer experienced 35.64 wait time  this customer reached the front line at 234.54
+Customer 356 finished Checkout at 239.54 in Lane 4 this customer experienced 31.16 wait time  this customer reached the front line at 235.39
+Customer 314 finished Checkout at 240.11 in Lane 0 this customer experienced 39.9 wait time  this customer reached the front line at 235.71
+Customer 149 finished Checkout at 241.19 in Lane 3 this customer experienced 30.06 wait time  this customer reached the front line at 236.74
+Customer 32 finished Checkout at 241.27 in Lane 2 this customer experienced 33.97 wait time  this customer reached the front line at 236.37
+Customer 245 Finished shopping at 242.18
+Customer 245 has more than 12 items choose Lane 4 Number of customers already in line: 3
+Customer 179 finished Checkout at 243.39 in Lane 4 this customer experienced 32.43 wait time  this customer reached the front line at 239.54
+Customer 102 finished Checkout at 244.29 in Lane 1 this customer experienced 37.23 wait time  this customer reached the front line at 239.49
+Customer 158 finished Checkout at 244.31 in Lane 0 this customer experienced 34.97 wait time  this customer reached the front line at 240.11
+Customer 268 Finished shopping at 245.52
+Customer 268 has more than 12 items choose Lane 0 Number of customers already in line: 3
+Customer 80 finished Checkout at 245.84 in Lane 3 this customer experienced 31.66 wait time  this customer reached the front line at 241.19
+Customer 150 finished Checkout at 246.07 in Lane 2 this customer experienced 34.63 wait time  this customer reached the front line at 241.27
+Customer 55 finished Checkout at 247.79 in Lane 1 this customer experienced 37.87 wait time  this customer reached the front line at 244.29
+Customer 119 finished Checkout at 248.24 in Lane 4 this customer experienced 32.25 wait time  this customer reached the front line at 243.39
+Customer 423 finished Checkout at 249.21 in Lane 0 this customer experienced 35.89 wait time  this customer reached the front line at 244.31
+Customer 357 finished Checkout at 250.22 in Lane 2 this customer experienced 33.78 wait time  this customer reached the front line at 246.07
+Customer 478 finished Checkout at 250.69 in Lane 3 this customer experienced 27.51 wait time  this customer reached the front line at 245.84
+Customer 227 finished Checkout at 252.74 in Lane 4 this customer experienced 17.46 wait time  this customer reached the front line at 248.24
+Customer 308 finished Checkout at 252.74 in Lane 1 this customer experienced 38.34 wait time  this customer reached the front line at 247.79
+Customer 338 finished Checkout at 253.21 in Lane 0 this customer experienced 37.58 wait time  this customer reached the front line at 249.21
+Customer 205 finished Checkout at 254.49 in Lane 3 this customer experienced 26.83 wait time  this customer reached the front line at 250.69
+Customer 487 finished Checkout at 254.77 in Lane 2 this customer experienced 30.63 wait time  this customer reached the front line at 250.22
+Customer 39 finished Checkout at 256.44 in Lane 1 this customer experienced 34.86 wait time  this customer reached the front line at 252.74
+Customer 245 finished Checkout at 257.19 in Lane 4 this customer experienced 10.56 wait time  this customer reached the front line at 252.74
+Customer 491 finished Checkout at 257.81 in Lane 0 this customer experienced 33.43 wait time  this customer reached the front line at 253.21
+Customer 472 finished Checkout at 259.29 in Lane 3 this customer experienced 15.77 wait time  this customer reached the front line at 254.49
+Customer 481 finished Checkout at 259.47 in Lane 2 this customer experienced 31.22 wait time  this customer reached the front line at 254.77
+Customer 268 finished Checkout at 262.61 in Lane 0 this customer experienced 12.29 wait time  this customer reached the front line at 257.81
+The average waiting time was: 10.84 The largest waiting time was: 40.27

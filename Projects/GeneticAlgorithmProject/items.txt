@@ -1,0 +1,7 @@
+Cellphone, 0.25, 600
+Gaming laptop, 10, 2000
+Jewelry, 0.5, 500
+Kindle, 0.5, 300
+Video game console, 3.0, 500
+Small cuckoo clock, 5.0, 1500
+Silver paper weight, 2.0, 400
